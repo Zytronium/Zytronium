@@ -51,9 +51,9 @@
 
 <hr>
 
-- 🔭 I’m currently working on [Infinite 8-Bit Racing](https://github.com/Zytronium/8Bit_Racing)
+- 👨‍💻 I’m currently working on [Infinite 8-Bit Racing](https://github.com/Zytronium/8Bit_Racing)
 
-- 🌱 I’m currently learning to program **at Atlas School, Tulsa**
+- 🎓 I’m currently learning to program **at [Atlas School](https://www.atlasschool.com), Tulsa**
 
 <hr>
 
@@ -134,7 +134,7 @@
 
 <h3 align="center">My Developer Backstory</h3>
 <p>
-  I got started with programming back when I was a kid. I don't remember very well how old I was, perhaps around 14 years. I wanted to try out making games for Roblox, so I downlaoded Roblox Studio and started experimenting with it. I mostly worked with models, and I wasn't very good at it yet, though I eventually considered myself decent, but never a professional. I got some scripting experience by editing scripts from the toolbox, items that other people had published to the toolbox for others to use for free. I learned to do very simple editing in Lua, and eventually had some success making simple scripts from scratch. It wasn't until around 2021 that I really got into programming. In 2021-2022 I attended a Mobile App Development program at Tulsa Tech. I learned to program in Swift for IOS apps during the first semester, and Kotlin for Android apps during the second. I have since mostly forgotten Swift, nor do I care to revisit it. Instead, I greatly enjoyed making Android apps with Kotlin, and I have done many side projects in Kotlin. I've even made some desktop applications with Kotlin. Near the end of the 2021-2022 schoolyear, I started experimenting with Unity. I made a couple applications with Unity, though only one of them was an actual game, and I never finished it. I've since published 3 apps on the Google Play Store: two games and one joke app based on a meme. You can find these apps [here](https://play.google.com/store/apps/developer?id=《Zytronium》). You can also find a few of my desktop aplications I published to itch.io [here](https://zytronium.itch.io). On April 29, 2024, I started attending Atlas School in Tulsa, Oklahoma. I'm enrolled in the "LAB (Linux Programming, Advanced Algorithms, and Blockchain), AKA Systems programming, program, and will graduate in December of 2025, shortly before my 21st birthday. At Atlas School, I have learned Linux Bash commands, shell scripting, C, Python, HTML, CSS, SQL. Fun fact: at Atlas School, I am part of the last cohort using the legacy curriculum from Holberton School, but I think this curriculum is actually better for me, personally, than the new one. Though, I have heard many students prefer the new curriculum.
+  I got started with programming back when I was a kid. I don't remember very well how old I was, perhaps around 14 years. I wanted to try out making games for Roblox, so I downlaoded Roblox Studio and started experimenting with it. I mostly worked with models, and I wasn't very good at it yet, though I eventually considered myself decent, but never a professional. I got some scripting experience by editing scripts from the toolbox, items that other people had published to the toolbox for others to use for free. I learned to do very simple editing in Lua, and eventually had some success making simple scripts from scratch. It wasn't until around 2021 that I really got into programming. In 2021-2022 I attended a Mobile App Development program at Tulsa Tech. I learned to program in Swift for IOS apps during the first semester, and Kotlin for Android apps during the second. I have since mostly forgotten Swift, nor do I care to revisit it. Instead, I greatly enjoyed making Android apps with Kotlin, and I have done many side projects in Kotlin. I've even made some desktop applications with Kotlin. Near the end of the 2021-2022 schoolyear, I started experimenting with Unity. I made a couple applications with Unity, though only one of them was an actual game, and I never finished it. I've since published 3 apps on the Google Play Store: two games and one joke app based on a meme. You can find these apps <a href="https://play.google.com/store/apps/developer?id=《Zytronium》">here</a>. You can also find a few of my desktop aplications I published to itch.io <a href="https://zytronium.itch.io">here</a>. On April 29, 2024, I started attending Atlas School in Tulsa, Oklahoma. I'm enrolled in the "LAB (Linux Programming, Advanced Algorithms, and Blockchain), AKA Systems programming, program, and will graduate in December of 2025, shortly before my 21st birthday. At Atlas School, I have learned Linux Bash commands, shell scripting, C, Python, HTML, CSS, SQL. Fun fact: at Atlas School, I am part of the last cohort using the legacy curriculum from Holberton School, but I think this curriculum is actually better for me, personally, than the new one. Though, I have heard many students prefer the new curriculum.
 </p>
 <h4>Summarry:</h4>
 <ul>
@@ -156,6 +156,6 @@
 
 
 
-###### This readme is currently undergoing a revamp. It will be done within an hour...
+###### This readme is currently undergoing a revamp. It will be done within a few minutes...
 
 [![](https://visitcount.itsvg.in/api?id=Zytronium&label=Profile%20Views&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in)
