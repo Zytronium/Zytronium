@@ -2,7 +2,7 @@
 <h1 align="center">Hello World! 👋 I'm Zytronium</h1>
 <h3 align="center">A passionate developer from Oklahoma</h3>
 
-`🗒 About_me.txt                                                                                          ⎯ 🗗🗙`
+`🗒 About_me.txt                                                                                ⎯ 🗗🗙`
 
 ```
 《 Hobbies 》
