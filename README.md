@@ -2,7 +2,7 @@
 <h1 align="center">Hello World! 👋 I'm Zytronium</h1>
 <h3 align="center">A passionate developer from Oklahoma</h3>
 
-`🗒 About_me.txt                                                                                           ⎯ 🗗🗙`
+`🗒 About_me.txt                                                                                          ⎯ 🗗🗙`
 
 ```
 《 HOBBIES 》
@@ -17,36 +17,53 @@
   》 Comedy
   》 Music With No Lyrics
   》 YouTube
+  》 Logic
   》 Tech - Especially Software
+  》 Blue, Cyan, And Purple
+
+《 Dislikes 》
+  》 Also YouTube
+  》 Ads
+  》 Complex Math
+  》 Undocumented or Outdated Code
+  》 My ADHD
+  》 Slow PCs
+  》 Ads
+  》 Politics
+  》 Ads
+  》 Unskipable Ads
+  》 Orange
+
   
 《 Misc. 》
   》 Attending Coding School
   》 Lives in CST Timezone 
   》 Very Social Online; Very Anti-Social IRL
+  》 Perfectionist
 
 ```
 
 <hr>
 
-<h2 align="center">Trophies</h2>
+<h3 align="center">Trophies</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zytronium" alt="zytronium" /></a> </p>
 
------
+<hr>
 
 - 🔭 I’m currently working on [Infinite 8-Bit Racing](https://github.com/Zytronium/8Bit_Racing)
 
 - 🌱 I’m currently learning to program **at Atlas School, Tulsa**
 
------
+<hr>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">My Socials:</h3>
 <p align="left">
 <a href="https://www.youtube.com/@Zytron" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="zytronium" height="30" width="40" /></a>
 <a href="https://discord.gg/nMXxW5xVM4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="nMXxW5xVM4" height="30" width="40" /></a>
 </p>
 
------
+<hr>
 
 <h3 align="left">Languages and Tools I Have Experience With:</h3>
 <p align="left">
@@ -102,7 +119,10 @@
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
 </p>
 
------
+<hr>
+
+
+<h3 align="center">My GitHub User Statistics:</h3>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zytronium&show_icons=true&locale=en&layout=compact" alt="zytronium" /></p>
 
@@ -110,7 +130,32 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zytronium&" alt="zytronium" /></p>
 
----
+<hr>
+
+<h3 align="center">My Developer Backstory</h3>
+<p>
+  I got started with programming back when I was a kid. I don't remember very well how old I was, perhaps around 14 years. I wanted to try out making games for Roblox, so I downlaoded Roblox Studio and started experimenting with it. I mostly worked with models, and I wasn't very good at it yet, though I eventually considered myself decent, but never a professional. I got some scripting experience by editing scripts from the toolbox, items that other people had published to the toolbox for others to use for free. I learned to do very simple editing in Lua, and eventually had some success making simple scripts from scratch. It wasn't until around 2021 that I really got into programming. In 2021-2022 I attended a Mobile App Development program at Tulsa Tech. I learned to program in Swift for IOS apps during the first semester, and Kotlin for Android apps during the second. I have since mostly forgotten Swift, nor do I care to revisit it. Instead, I greatly enjoyed making Android apps with Kotlin, and I have done many side projects in Kotlin. I've even made some desktop applications with Kotlin. Near the end of the 2021-2022 schoolyear, I started experimenting with Unity. I made a couple applications with Unity, though only one of them was an actual game, and I never finished it. I've since published 3 apps on the Google Play Store: two games and one joke app based on a meme. You can find these apps [here](https://play.google.com/store/apps/developer?id=《Zytronium》). You can also find a few of my desktop aplications I published to itch.io [here](https://zytronium.itch.io). On April 29, 2024, I started attending Atlas School in Tulsa, Oklahoma. I'm enrolled in the "LAB (Linux Programming, Advanced Algorithms, and Blockchain), AKA Systems programming, program, and will graduate in December of 2025, shortly before my 21st birthday. At Atlas School, I have learned Linux Bash commands, shell scripting, C, Python, HTML, CSS, SQL. Fun fact: at Atlas School, I am part of the last cohort using the legacy curriculum from Holberton School, but I think this curriculum is actually better for me, personally, than the new one. Though, I have heard many students prefer the new curriculum.
+</p>
+<h4>Summarry:</h4>
+<ul>
+  <li>First exposure to programming was Roblox Studio</li>
+  <li>Attended Mobile App Development at Tulsa Tech | 2021-2022</li>
+  <li>Developed mobile apps and desktop application as a hobby | 2022-2024</li>
+  <li>Graduated High School | 2023</li>
+  <li>Attended Atlas School | 2024-preasent</li>
+</ul>
+<h4>Career Interests</h4>
+<ul>
+  <li>Video Game Development</li>
+  <li>Flight Simulator Development</li>
+  <li>Mobile App Development</li>
+  <li>Operating System Development</li>
+  <li>Literally anything relating to both aerospace and programming</li>
+  <li>Side job: Commercial Drone Pilot</li>
+</ul>
+
+
+
 ###### This readme is currently undergoing a revamp. It will be done within an hour...
 
 [![](https://visitcount.itsvg.in/api?id=Zytronium&label=Profile%20Views&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in)
