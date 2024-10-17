@@ -62,6 +62,8 @@
   <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a>
     <!-- Unity -->
   <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>
+    <!-- Roblox Studio -->
+  <a href="https://create.roblox.com" target="_blank" rel="noreferrer"> <img src="https://static.wikia.nocookie.net/logopedia/images/b/bd/Roblox_Studio_2022_icon.svg" alt="roblox studio" width="40" height="40"/> </a>
     <!-- Linux (WSL, Ubuntu, Fedora, Nobara, Mint) -->
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
     <!-- Android -->
@@ -74,6 +76,8 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
     <!-- C -->
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
+    <!-- Lua -->
+  <a href="https://www.lua.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/lua/lua-icon.svg" alt="lua" width="40" height="40"/> </a>
     <!-- Bash -->
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
     <!-- HTML5 -->
@@ -84,8 +88,6 @@
 <p align="left">
     <!-- Git -->
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-    <!-- Firebase Databases -->
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
     <!-- Linux (WSL, Ubuntu, Fedora) -->
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
     <!-- Android -->
@@ -100,11 +102,15 @@
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
 </p>
 
+-----
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zytronium&show_icons=true&locale=en&layout=compact" alt="zytronium" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zytronium&show_icons=true&locale=en" alt="zytronium" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=zytronium&show_icons=true&locale=en" alt="zytronium" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zytronium&" alt="zytronium" /></p>
+
+---
+###### This readme is currently undergoing a revamp. It will be done within an hour...
 
 [![](https://visitcount.itsvg.in/api?id=Zytronium&label=Profile%20Views&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in)
