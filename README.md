@@ -52,7 +52,7 @@
 <hr>
 
 - 👨‍💻 I’m currently working on [Infinite 8-Bit Racing](https://github.com/Zytronium/8Bit_Racing)
-- 🎓 I’m currently learning to program **[Atlas School](https://www.atlasschool.com), Tulsa**
+- 🎓 I’m currently learning to program at **[Atlas School](https://www.atlasschool.com), Tulsa**
 
 <hr>
 
