@@ -157,4 +157,11 @@
   <li>Side job: Commercial Drone Pilot</li>
 </ul>
 
+<h4>Career Goals:</h4>
+<ul>
+  <li>Create my dream OS, which blends the best of Linux and Windows, appealing to the average Linux and Windows users and being suitable for gaming, development, and casual use</li>
+  <li>Contribute to something important or usefull, like software used for manned or unmanned spacecraft (I.E. Voyager 1 & 2 or the first manned mission to Mars)</li>
+  <li>Enjoy my career</li>
+</ul>
+
 [![](https://visitcount.itsvg.in/api?id=Zytronium&label=Profile%20Views&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in)
