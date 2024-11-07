@@ -11,12 +11,12 @@
 
 《 Likes 》
   》 Video Games - both playing and making them
-  》 Almost Any Kind Of Programming
+  》 Almost Any Kind of Programming
   》 Space And Aviation
   》 Anything Sci-Fi, Especially Star Trek
   》 Amateur Photo Editing
   》 Comedy
-  》 Music With No Lyrics
+  》 Music Without Lyrics
   》 YouTube
   》 Logic
   》 Tech - Especially Software
@@ -142,7 +142,7 @@
   <li>First exposure to programming was Roblox Studio</li>
   <li>Attended Mobile App Development at Tulsa Tech | 2021-2022</li>
   <li>Developed mobile apps and desktop application as a hobby | 2022-2024</li>
-  <li>Graduated High School | 2023</li>
+  <li>Graduated high school | 2023</li>
   <li>Attended Atlas School | 2024-Present</li>
 </ul>
 
@@ -160,7 +160,7 @@
 <h4>Career Goals:</h4>
 <ul>
   <li>Create my dream OS, which blends the best of Linux and Windows, appealing to the average Linux and Windows users and being suitable for gaming, development, and casual use</li>
-  <li>Contribute to something important or usefull, like software used for manned or unmanned spacecraft (I.E. Voyager 1 & 2 or the first manned mission to Mars)</li>
+  <li>Contribute to something important or useful, like software used on a spacecraft (I.E. Voyager 1 & 2 or the first manned mission to Mars)</li>
   <li>Enjoy my career</li>
 </ul>
 
