@@ -123,7 +123,7 @@
 
 <hr>
 
-<p>Note: My most used languages chart is distorted by the fact that someone pushed 2.6 million lines of python to a group project on mine. None of u wrote that library. The correct percentage of python used as of 12/10/24 should be closer to 20-40%. </p>
+<p>Note: My most used languages chart is distorted by the fact that someone pushed 2.6 million lines of python to a group project on mine. None of us wrote that library. The correct percentage of python used as of 12/10/24 should be closer to 20-40%. </p>
 
 <h3 align="center">My GitHub User Statistics:</h3>
 
