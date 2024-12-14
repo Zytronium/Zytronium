@@ -51,7 +51,7 @@
 
 <hr>
 
-- 👨‍💻 I’m currently working on [Infinite 8-Bit Racing](https://github.com/Zytronium/8Bit_Racing)
+- 👨‍💻 I’m currently working on **[The Faction Nexus](https://zytronium.github.io/TheFactionNexus/about)**
 - 🎓 I’m currently learning to program at **[Atlas School](https://www.atlasschool.com), Tulsa**
 
 <hr>
@@ -155,6 +155,7 @@
   <li>Video Game Development</li>
   <li>Flight Simulator Development</li>
   <li>Mobile App Development</li>
+  <li>Web Development</li>
   <li>Operating System Development</li>
   <li>Literally anything relating to both aerospace and programming</li>
   <li>Side job: Commercial Drone Pilot</li>
