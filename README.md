@@ -127,8 +127,6 @@
 
 <hr>
 
-<p>Note: My most used languages chart is distorted by the fact that someone pushed 2.6 million lines of python to a group project of mine. None of us wrote that library. The correct percentage of python used as of 12/10/24 should be closer to 20-40%. As of 12/16/24, I'm wating for this widget to update after I fixed this by deleting the unused Python library. If it says around 88.7%, then it's not accurate.</p>
-
 <h3 align="center">My GitHub User Statistics:</h3>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zytronium&show_icons=true&locale=en&layout=compact" alt="zytronium" /></p>
