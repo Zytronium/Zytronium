@@ -14,6 +14,11 @@ header {
     padding: 1em 0;
 }
 
+@font-face {
+    font-family: 'Xolonium';
+    src: url('/Zytronium/fonts/Xolonium-Regular.otf');
+}
+
 /* Scrollbar track */
 ::-webkit-scrollbar {
     width: 10px;
