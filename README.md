@@ -38,7 +38,6 @@
 《 Misc. 》
   》 Attending Coding School
   》 Lives in CST Timezone 
-  》 Very Social Online; Very Anti-Social IRL
   》 Perfectionist
 
 ```
