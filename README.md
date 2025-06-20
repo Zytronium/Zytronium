@@ -10,9 +10,9 @@
   》 Programming
 
 《 Likes 》
-  》 Video Games - both playing and making them
-  》 Almost Any Kind of Programming
-  》 Space And Aviation
+  》 Video Games - Both Playing and Creating Them
+  》 Almost any Kind of Programming
+  》 Space and Aviation
   》 Anything Sci-Fi, Especially Star Trek
   》 Amateur Photo Editing
   》 Comedy
@@ -20,7 +20,7 @@
   》 YouTube
   》 Logic
   》 Tech - Especially Software
-  》 Blue, Cyan, And Purple
+  》 Blue, Cyan, and Purple
 
 《 Dislikes 》
   》 Also YouTube
@@ -100,13 +100,15 @@
     <!-- HTML5 -->
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
     <!-- Bash -->
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/2048px-Bash_Logo_Colored.svg.png" alt="bash" width="40" height="40"/> </a>
 </p>
 
 <h3 align="left">Languages and Tools I'm Proficient With:</h3>
 <p align="left">
     <!-- Git -->
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+    <!-- Firebase Databases -->
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
     <!-- Linux (WSL, Ubuntu, Fedora) -->
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
     <!-- Android -->
@@ -120,7 +122,7 @@
     <!-- HTML5 -->
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
     <!-- Bash -->
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/2048px-Bash_Logo_Colored.svg.png" alt="bash" width="40" height="40"/> </a>
 </p>
 
 <hr>
@@ -140,7 +142,7 @@
 <h3 align="center">My Developer Backstory</h3>
 
 <p>
-    I got started with programming back when I was a kid. I don't remember very well how old I was, perhaps around 14 years. I wanted to try out making games for Roblox, so I downloaded Roblox Studio and started experimenting with it. I mostly worked with models, and I wasn't very good at it yet. Though I eventually considered myself decent, but never a professional. I got some scripting experience by editing scripts from the toolbox, items that other people had published to the toolbox for others to use for free. I learned to do very simple editing in Lua and eventually had some success making simple scripts from scratch. It wasn't until around 2021 that I really got into programming. In 2021-2022, I attended a Mobile App Development program at Tulsa Tech. I learned to program in Swift for iOS apps during the first semester and Kotlin for Android apps during the second. I have since mostly forgotten Swift, nor do I care to revisit it. Instead, I greatly enjoyed making Android apps with Kotlin, and I have done many side projects in it. I've even made some desktop applications with Kotlin. Near the end of the 2021-2022 school year, I started experimenting with Unity. I made a couple applications with Unity, though only one of them was an actual game, and I never finished it. I've since published 3 apps on the Google Play Store: two games and one joke app based on a meme. You can find these apps <a href="https://play.google.com/store/apps/developer?id=《Zytronium》">here</a>. You can also find a few of my desktop applications I published to itch.io <a href="https://zytronium.itch.io">here</a>. On April 29, 2024, I started attending Atlas School in Tulsa, Oklahoma. I'm enrolled in the Full-Stack Web Development program, and will graduate in December of 2025, shortly before my 21st birthday. At Atlas School, I have learned Linux Bash commands, shell scripting, C, Python, JavaScript, HTML, CSS, and SQL, as well as how to use certain tools like Docker. Fun fact: at Atlas School, I am part of the last cohort using the legacy curriculum from Holberton School, but I think this curriculum is actually better for me personally than the new one. (Although, I have heard that many students prefer the new curriculum.)
+    I got started with programming back when I was a kid. I don't remember very well how old I was, perhaps around 14 years. I wanted to try out making games for Roblox, so I downloaded Roblox Studio and started experimenting with it. I mostly worked with models, and I wasn't very good at it yet. Though I eventually considered myself decent, but never a professional. I got some scripting experience by editing scripts from the toolbox, where other users publish items for others to use freely. I learned to do very simple editing in Lua and eventually had some success making simple scripts from scratch. It wasn't until around 2021 that I really got into programming. In 2021-2022, I attended a Mobile App Development program at Tulsa Tech. I learned to program in Swift for iOS apps during the first semester and Kotlin for Android apps during the second. I have since mostly forgotten Swift, nor do I care to revisit it. Instead, I greatly enjoyed making Android apps with Kotlin, and I have done many side projects in it. I've even made some desktop applications with Kotlin. Near the end of the 2021-2022 school year, I started experimenting with Unity. I made a couple applications with Unity, though only one of them was an actual game, and I never finished it. I've since published 3 apps on the Google Play Store: two games and one joke app based on a meme. You can find these apps <a href="https://play.google.com/store/apps/developer?id=《Zytronium》">here</a>. You can also find a few of my desktop applications I published to itch.io <a href="https://zytronium.itch.io">here</a>. On April 29, 2024, I started attending Atlas School in Tulsa, Oklahoma. I'm enrolled in the Full-Stack Web Development program, and will graduate in December of 2025, shortly before my 21st birthday. At Atlas School, I have learned Linux Bash commands, shell scripting, C, Python, JavaScript, HTML, CSS, and SQL, as well as how to use certain tools like Docker, MongoDB, and SCSS/SASS. Fun fact: at Atlas School, I am part of the last cohort using the legacy curriculum from Holberton School, but I think this curriculum is actually better for me personally than the new one. (Although, I have heard that many students prefer the new curriculum.)
 </p>
 
 <h4>Summary:</h4>
