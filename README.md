@@ -134,7 +134,7 @@
 
 <hr>
 
-<p>Visit my developer <a href="https://zytronium.github.io/">about me website</a>! I think it looks pretty neat.</p>
+<p>Visit my developer <a href="https://zytronium.dev/">about me website</a>! I think it looks pretty neat.</p>
 
 <hr>
 
