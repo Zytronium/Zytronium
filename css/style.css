@@ -11,7 +11,7 @@ body {
 /* Header Styling */
 header {
     text-align: center;
-    padding: 1em 0;
+    padding: 1em 0 0;
 }
 
 @font-face {
@@ -128,8 +128,11 @@ footer {
     color: #888;
 }
 
-footer a {
+a {
     color: #4a90e2;
+}
+
+footer a {
     text-decoration: none;
 }
 
