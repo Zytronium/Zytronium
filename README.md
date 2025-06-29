@@ -50,7 +50,7 @@
 
 <hr>
 
-- 👨‍💻 I’m currently working on **[The Faction Nexus](https://zytronium.github.io/TheFactionNexus/about)**
+- 👨‍💻 I’m currently working on **[The Faction Nexus](https://thefactiontexus.tech/about)**
 - 🎓 I’m currently learning to program at **[Atlas School](https://www.atlasschool.com), Tulsa**
 
 <hr>
@@ -134,7 +134,7 @@
 
 <hr>
 
-<p>Visit my developer <a href="https://zytronium.github.io/Zytronium/">about me website</a>! I think it looks pretty neat.</p>
+<p>Visit my developer <a href="https://zytronium.github.io/">about me website</a>! I think it looks pretty neat.</p>
 
 <hr>
 
