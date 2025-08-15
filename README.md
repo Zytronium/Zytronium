@@ -1,6 +1,6 @@
 
 <h1 align="center">Hello World! 👋 I'm Zytronium</h1>
-<h3 align="center">A passionate developer from Oklahoma</h3>
+<h3 align="center">A passionate developer from Tulsa, Oklahoma</h3>
 
 `🗒 About_me.txt                                                                                   ⎯ 🗗🗙`
 
@@ -39,6 +39,8 @@
   》 Attending Coding School
   》 Lives in CST Timezone 
   》 Perfectionist
+  》 Favorite Language I Know: Python
+  》 Least Favorite Language I Know: C
 
 ```
 
@@ -58,6 +60,7 @@
 <h3 align="left">My Socials:</h3>
 
 <p align="left">
+<a href="https://bsky.app/profile/zytronium.dev" target="blank"><img align="center" src="https://vectorseek.com/wp-content/uploads/2024/01/Bluesky-Logo-Vector.svg-.png" alt="nMXxW5xVM4" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@Zytron" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="zytronium" height="30" width="40" /></a>
 <a href="https://discord.gg/nMXxW5xVM4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="nMXxW5xVM4" height="30" width="40" /></a>
 </p>
@@ -134,20 +137,20 @@
 
 <hr>
 
-<p>Visit my developer <a href="https://zytronium.dev/">about me website</a>! I think it looks pretty neat.</p>
+<p>Visit my personal <a href="https://zytronium.dev/">developer website</a>! I put a lot of time into making it look great.</p>
 
 <hr>
 
 <h3 align="center">My Developer Backstory</h3>
 
 <p>
-    I got started with programming back when I was a kid. I don't remember very well how old I was, perhaps around 14 years. I wanted to try out making games for Roblox, so I downloaded Roblox Studio and started experimenting with it. I mostly worked with models, and I wasn't very good at it yet. Though I eventually considered myself decent, but never a professional. I got some scripting experience by editing scripts from the toolbox, where other users publish items for others to use freely. I learned to do very simple editing in Lua and eventually had some success making simple scripts from scratch. It wasn't until around 2021 that I really got into programming. In 2021-2022, I attended a Mobile App Development program at Tulsa Tech. I learned to program in Swift for iOS apps during the first semester and Kotlin for Android apps during the second. I have since mostly forgotten Swift, nor do I care to revisit it. Instead, I greatly enjoyed making Android apps with Kotlin, and I have done many side projects in it. I've even made some desktop applications with Kotlin. Near the end of the 2021-2022 school year, I started experimenting with Unity. I made a couple applications with Unity, though only one of them was an actual game, and I never finished it. I've since published 3 apps on the Google Play Store: two games and one joke app based on a meme. You can find these apps <a href="https://play.google.com/store/apps/developer?id=《Zytronium》">here</a>. You can also find a few of my desktop applications I published to itch.io <a href="https://zytronium.itch.io">here</a>. On April 29, 2024, I started attending Atlas School in Tulsa, Oklahoma. I'm enrolled in the Full-Stack Web Development program, and will graduate in December of 2025, shortly before my 21st birthday. At Atlas School, I have learned Linux Bash commands, shell scripting, C, Python, JavaScript, HTML, CSS, and SQL, as well as how to use certain tools like Docker, MongoDB, and SCSS/SASS. Fun fact: at Atlas School, I am part of the last cohort using the legacy curriculum from Holberton School, but I think this curriculum is actually better for me personally than the new one. (Although, I have heard that many students prefer the new curriculum.)
+    I got started with programming back when I was a kid. When I created a new Roblox account in 2017 when I was 12 years old, I discovered Roblox Studio. At first, I was only playing around with modeling, though I wasn't very good at it yet. Eventually, (perhaps in 2018 or 2019) I got some scripting experience by editing scripts from the toolbox, where other users publish items for others to use freely. I learned to do very simple editing in Lua and eventually had some success making simple scripts from scratch. It wasn't until around 2021 that I really got into programming. In 2021-2022, I attended a Mobile App Development program at Tulsa Tech, where I learned to program in Swift for iOS apps during the first semester, and Kotlin for Android apps during the second. I have since mostly forgotten Swift, nor do I care to revisit it. Instead, I greatly enjoyed making Android apps with Kotlin, and I have done many side projects in it. I've even made some desktop applications with Kotlin. Near the end of the 2021-2022 school year, I started experimenting with Unity. I made a couple applications with Unity, though only one of them was an actual game, and I never finished it. I've since published 3 apps on the Google Play Store: two games and one joke app based on a meme. You can find these apps <a href="https://play.google.com/store/apps/developer?id=《Zytronium》">here</a>. You can also find a few of my desktop applications I published to itch.io <a href="https://zytronium.itch.io">here</a>. On April 29, 2024, I started attending Atlas School in Tulsa, Oklahoma, where I'm enrolled in the Full-Stack Web Development program, and will graduate in December 2025, shortly before my 21st birthday. At Atlas School, I have learned Linux Bash commands, shell scripting, C, Python, JavaScript, HTML, CSS, and SQL, as well as how to use certain tools like Docker, MongoDB, and SCSS/SASS. Similar to my experience at Tulsa Tech, Atlas School has helped me find my interest in web development, and I have created many side projects in HTML and JavaScript.
 </p>
 
 <h4>Summary:</h4>
 
 <ul>
-  <li>First exposure to programming was Roblox Studio</li>
+  <li>First exposure to programming was Roblox Studio | 2017</li>
   <li>Attended Mobile App Development at Tulsa Tech | 2021-2022</li>
   <li>Developed mobile apps and desktop applications as a hobby | 2022-2024</li>
   <li>Graduated high school | 2023</li>
@@ -162,8 +165,8 @@
   <li>Mobile App Development</li>
   <li>Web Development</li>
   <li>Operating System Development</li>
-  <li>Literally anything relating to both aerospace and programming</li>
-  <li>Side job: Commercial Drone Pilot</li>
+  <li>Anything Relating to Both Aerospace and Programming</li>
+  <li>Side Job: Commercial Drone Pilot</li>
 </ul>
 
 <h4>Career Goals:</h4>
