@@ -54,6 +54,7 @@
 
 - 👨‍💻 I’m currently working on **[The Faction Nexus](https://thefactiontexus.tech/about)**
 - 🎓 I’m currently learning to program at **[Atlas School](https://www.atlasschool.com), Tulsa**
+- 🟠 I'm currently teaching myself Rust with RustRover's built-in [Rust Exercises](https://rust-exercises.com/100-exercises/)
 
 <hr>
 
@@ -161,9 +162,9 @@
 
 <ul>
   <li>Video Game Development</li>
-  <li>Flight Simulator Development</li>
-  <li>Mobile App Development</li>
   <li>Web Development</li>
+  <li>Mobile App Development</li>
+  <li>Flight Simulator Development</li>
   <li>Operating System Development</li>
   <li>Anything Relating to Both Aerospace and Programming</li>
   <li>Side Job: Commercial Drone Pilot</li>
