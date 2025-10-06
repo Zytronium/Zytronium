@@ -54,16 +54,26 @@
 
 - 👨‍💻 I’m currently working on **[The Faction Nexus](https://thefactiontexus.tech/about)**
 - 🎓 I’m currently learning to program at **[Atlas School](https://www.atlasschool.com), Tulsa**
-- 🟠 I'm currently teaching myself Rust with RustRover's built-in [Rust Exercises](https://rust-exercises.com/100-exercises/)
+- 🟠 I'm currently teaching myself **Rust** with RustRover's built-in [Rust Exercises](https://rust-exercises.com/100-exercises/)
 
 <hr>
+
+<h3>Top Current & Recent Projects</h3>
+
+- **[The Faction Nexus](https://github.com/Zytronium/TheFactionNexus)**
+- **[Enhanced Rework](https://github.com/Zytronium/zytronium.dev-v3)** of my [developer website](https://zytronium.dev)
+- **[Satire Dev Blog](https://github.com/Zytronium/satire_dev_blog)**
+- **[Star Trek Battle Engine](https://github.com/Zytronium/star-trek-battle-sim)**
+
+As of October 6th, 2025, I have a total of 213 repositories, 121 of which are public. Recently, I have been mostly making websites. Less recently, I made a lot of python scripts and tools. In the past, I made more Android mobile apps and desktop apps with Kotlin.
 
 <h3 align="left">My Socials:</h3>
 
 <p align="left">
-<a href="https://bsky.app/profile/zytronium.dev" target="blank"><img align="center" src="https://vectorseek.com/wp-content/uploads/2024/01/Bluesky-Logo-Vector.svg-.png" alt="nMXxW5xVM4" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@Zytron" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="zytronium" height="30" width="40" /></a>
-<a href="https://discord.gg/nMXxW5xVM4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="nMXxW5xVM4" height="30" width="40" /></a>
+<a href="https://bsky.app/profile/zytronium.dev" target="blank"><img align="center" src="https://vectorseek.com/wp-content/uploads/2024/01/Bluesky-Logo-Vector.svg-.png" alt="Bluesky" height="40" width="40" /></a>
+<a href="https://www.youtube.com/@Zytron" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="50" width="40" /></a>
+<a href="https://discord.gg/nMXxW5xVM4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="40" width="40" /></a>
+<a href="https://app.daily.dev/zytronium" target="blank"><img align="center" src="https://docs.daily.dev/img/logo.png" alt="Daily.dev" height="40" width="40" /></a>
 </p>
 
 <hr>
@@ -89,17 +99,21 @@
     <!-- Android -->
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
     <!-- Kotlin -->
-  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a>
+  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://share.zytronium.dev/images/Kotlin%20Full%20Color%20Logo%20Mark%20RGB.svg" alt="kotlin" width="40" height="40"/> </a>
     <!-- Swift -->
   <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a>
     <!-- Python -->
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
     <!-- C -->
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
+    <!-- Rust -->
+  <a href="https://rust-lang.org/" target="_blank" rel="noreferrer"> <img src="https://share.zytronium.dev/images/icons8-rust-programming-language.svg" alt="rust" width="40" height="40"/> </a>
     <!-- Lua -->
   <a href="https://www.lua.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/lua/lua-icon.svg" alt="lua" width="40" height="40"/> </a>
-    <!-- Javascript -->
+    <!-- JavaScript -->
   <a href="https://www.javascript.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="javascript" width="40" height="40"/> </a>
+    <!-- TypeScript -->
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/microsoft/TypeScript-Website/f407e1ae19e5e990d9901ac8064a32a8cc60edf0/packages/typescriptlang-org/static/branding/ts-logo-512.svg" alt="typescript" width="40" height="40"/> </a>
     <!-- HTML5 -->
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
     <!-- Bash -->
@@ -117,11 +131,13 @@
     <!-- Android -->
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
     <!-- Kotlin -->
-  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a>
+  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://share.zytronium.dev/images/Kotlin%20Full%20Color%20Logo%20Mark%20RGB.svg" alt="kotlin" width="40" height="40"/> </a>
     <!-- Python -->
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
     <!-- Javascript -->
   <a href="https://www.javascript.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="javascript" width="40" height="40"/> </a>
+    <!-- TypeScript -->
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/microsoft/TypeScript-Website/f407e1ae19e5e990d9901ac8064a32a8cc60edf0/packages/typescriptlang-org/static/branding/ts-logo-512.svg" alt="typescript" width="40" height="40"/> </a>
     <!-- HTML5 -->
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
     <!-- Bash -->
@@ -155,26 +171,28 @@
   <li>Attended Mobile App Development at Tulsa Tech | 2021-2022</li>
   <li>Developed mobile apps and desktop applications as a hobby | 2022-2024</li>
   <li>Graduated high school | 2023</li>
-  <li>Attended Atlas School | 2024-Present</li>
+  <li>Attending Atlas School | 2024-Present (expected 12/2025)</li>
 </ul>
 
 <h4>Career Interests:</h4>
 
 <ul>
+  <li>Anything Relating to Both Aerospace and Programming</li>
   <li>Video Game Development</li>
   <li>Web Development</li>
   <li>Mobile App Development</li>
   <li>Flight Simulator Development</li>
   <li>Operating System Development</li>
-  <li>Anything Relating to Both Aerospace and Programming</li>
   <li>Side Job: Commercial Drone Pilot</li>
 </ul>
 
 <h4>Career Goals:</h4>
 <ul>
-  <li>Create my dream OS, which blends the best of Linux and Windows, appealing to the average Linux and Windows users and being suitable for gaming, development, and casual use</li>
-  <li>Contribute to something important or useful, like software used on a spacecraft (I.E. Voyager 1 & 2 or the first manned mission to Mars)</li>
   <li>Enjoy my career</li>
+  <li>Contribute to something important or useful, like software used on a spacecraft (I.E. Voyager 1 & 2 or the first manned mission to Mars)</li>
+  <li>Create my dream OS, which blends the best of Linux and Windows, appealing to the average Linux and Windows users and being suitable for gaming, development, and casual use</li>
 </ul>
+
+My curent top interests are web-based game development, learning Rust, and potentially building my first operating system using Rust. In fact, I have a rather ambitious plan for a revolutionary desktop OS called CustomixOS that combines the best of Windows and Linux while maintaining cross-platform compatibility and a fully customizable setup. You can read more about it in [this Proton Doc I wrote](https://drive.proton.me/urls/71TRSGJ0D4#7AYkUwGRqfh8).
 
 [![](https://visitcount.itsvg.in/api?id=Zytronium&label=Profile%20Views&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in)
