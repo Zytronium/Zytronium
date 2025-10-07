@@ -52,20 +52,22 @@
 
 <hr>
 
-- 👨‍💻 I’m currently working on **[The Faction Nexus](https://thefactiontexus.tech/about)**
-- 🎓 I’m currently learning to program at **[Atlas School](https://www.atlasschool.com), Tulsa**
-- 🟠 I'm currently teaching myself **Rust** with RustRover's built-in [Rust Exercises](https://rust-exercises.com/100-exercises/)
+- 👨‍💻 <img align="center" src="https://thefactionnexus.tech/assets/favicons/favicon-32x32.png" alt="TFN" height="25" width="25" /> I’m currently working on **[The Faction Nexus](https://thefactiontexus.tech/about)**
+- 🎓 <img align="center" src="https://cdn.prod.website-files.com/6571f4826e9363343bcd2acd/6595a5223c011701af533b5f_Atlas_favicon.png" alt="Lumi" height="25" width="25" /> I’m currently learning to program at **[Atlas School](https://www.atlasschool.com), Tulsa**
+- ⚙️ <img align="center" src="https://prev.rust-lang.org/logos/rust-logo-256x256.png" alt="Rust" height="25" width="25" /> I'm currently teaching myself **Rust** with RustRover's built-in **["100 Exercises To Learn Rust"](https://rust-exercises.com/100-exercises/)**
 
 <hr>
 
 <h3>Top Current & Recent Projects</h3>
 
-- **[The Faction Nexus](https://github.com/Zytronium/TheFactionNexus)**
-- **[Enhanced Rework](https://github.com/Zytronium/zytronium.dev-v3)** of my [developer website](https://zytronium.dev)
-- **[Satire Dev Blog](https://github.com/Zytronium/satire_dev_blog)**
-- **[Star Trek Battle Engine](https://github.com/Zytronium/star-trek-battle-sim)**
+- <img align="center" src="https://thefactionnexus.tech/assets/favicons/favicon-32x32.png" alt="TFN" height="25" width="25"/> **[The Faction Nexus](https://thefactionnexus.tech/)**
+- <img align="center" src="https://zytronium.dev/images/zytronium_dev_logo_rounded.png" alt="Zytronium.Dev" height="25" width="25"/> **[Enhanced Rework](https://github.com/Zytronium/zytronium.dev-v3)** of my [developer website](https://zytronium.dev)
+- <img align="center" src="https://raw.githubusercontent.com/Zytronium/satire_dev_blog/refs/heads/main/public/fixed_it.png" alt="console.blog('satire');" height="25" width="25"/> **[Satire Dev Blog](https://github.com/Zytronium/satire_dev_blog)**
+- <img align="center" src="https://startrekbattlesim.zytronium.dev/favicon.ico" alt="STBE" height="25" width="25"/> **[Star Trek Battle Engine](https://startrekbattlesim.zytronium.dev/)**
 
 As of October 6th, 2025, I have a total of 213 repositories, 121 of which are public. Recently, I have been mostly making websites. Less recently, I made a lot of python scripts and tools. In the past, I made more Android mobile apps and desktop apps with Kotlin.
+
+---
 
 <h3 align="left">My Socials:</h3>
 
