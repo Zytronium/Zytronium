@@ -2,7 +2,7 @@
 <h1 align="center">Hello World! 👋 I'm Zytronium</h1>
 <h3 align="center">A passionate developer from Tulsa, Oklahoma</h3>
 
-`🗒 About_me.txt                                                                                   ⎯ 🗗🗙`
+`🗒 About_me.txt                                                                                 ⎯ 🗗🗙`
 
 ```
 《 Hobbies 》
@@ -21,6 +21,7 @@
   》 Logic
   》 Tech - Especially Software
   》 Blue, Cyan, and Purple
+  》 My Privacy
 
 《 Dislikes 》
   》 Also YouTube
@@ -28,7 +29,6 @@
   》 Ads
   》 Complex Math
   》 Undocumented or Outdated Code
-  》 My ADHD
   》 Ads
   》 Ads
   》 Politics
@@ -41,6 +41,7 @@
   》 Perfectionist
   》 Favorite Language I Know: Python
   》 Least Favorite Language I Know: C
+  》 Favorite Language I Don't Quite Know Yet: Rust
 
 ```
 
@@ -52,9 +53,9 @@
 
 <hr>
 
-- 👨‍💻 <img align="center" src="https://thefactionnexus.tech/assets/favicons/favicon-32x32.png" alt="TFN" height="25" width="25" /> I’m currently working on **[The Faction Nexus](https://thefactiontexus.tech/about)**
-- 🎓 <img align="center" src="https://cdn.prod.website-files.com/6571f4826e9363343bcd2acd/6595a5223c011701af533b5f_Atlas_favicon.png" alt="Lumi" height="25" width="25" /> I’m currently learning to program at **[Atlas School](https://www.atlasschool.com), Tulsa**
-- ⚙️ <img align="center" src="https://prev.rust-lang.org/logos/rust-logo-256x256.png" alt="Rust" height="25" width="25" /> I'm currently teaching myself **Rust** with RustRover's built-in **["100 Exercises To Learn Rust"](https://rust-exercises.com/100-exercises/)**
+- <img align="center" src="https://thefactionnexus.tech/assets/favicons/favicon-32x32.png" alt="TFN" height="25" width="25" /> I’m currently working on **[The Faction Nexus](https://thefactiontexus.tech/about)**
+- <img align="center" src="https://cdn.prod.website-files.com/6571f4826e9363343bcd2acd/6595a5223c011701af533b5f_Atlas_favicon.png" alt="Lumi" height="25" width="25" /> I’m currently learning to program at **[Atlas School](https://www.atlasschool.com), Tulsa**
+- <img align="center" src="https://prev.rust-lang.org/logos/rust-logo-256x256.png" alt="Rust" height="25" width="25" /> I'm currently teaching myself **Rust** with RustRover's built-in **["100 Exercises To Learn Rust"](https://rust-exercises.com/100-exercises/)**
 
 <hr>
 
@@ -65,7 +66,7 @@
 - <img align="center" src="https://raw.githubusercontent.com/Zytronium/satire_dev_blog/refs/heads/main/public/fixed_it.png" alt="console.blog('satire');" height="25" width="25"/> **[Satire Dev Blog](https://github.com/Zytronium/satire_dev_blog)**
 - <img align="center" src="https://startrekbattlesim.zytronium.dev/favicon.ico" alt="STBE" height="25" width="25"/> **[Star Trek Battle Engine](https://startrekbattlesim.zytronium.dev/)**
 
-As of October 6th, 2025, I have a total of 213 repositories, 121 of which are public. Recently, I have been mostly making websites. Less recently, I made a lot of python scripts and tools. In the past, I made more Android mobile apps and desktop apps with Kotlin.
+As of October 8th, 2025, I have a total of 213 repositories, 121 of which are public. Recently, I have been mostly making websites. Less recently, I made python scripts and tools. In the past, I made more Android mobile apps and desktop apps with Kotlin.
 
 ---
 
@@ -150,20 +151,20 @@ As of October 6th, 2025, I have a total of 213 repositories, 121 of which are pu
 
 <h3 align="center">My GitHub User Statistics:</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zytronium&show_icons=true&locale=en&layout=compact" alt="zytronium" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=zytronium&show_icons=true&locale=en" alt="zytronium" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zytronium&" alt="zytronium" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zytronium&show_icons=true&locale=en&layout=compact" alt="Top Languages Widget" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=zytronium&show_icons=true&locale=en" alt="User Statistics Widget" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zytronium&" alt="Contribution Streak Widget" /></p>
 
 <hr>
 
-<p>Visit my personal <a href="https://zytronium.dev/">developer website</a>! I put a lot of time into making it look great.</p>
+<p>Visit my personal **<a href="https://zytronium.dev/">developer website</a>**! I put a lot of time into making it look great.</p>
 
 <hr>
 
 <h3 align="center">My Developer Backstory</h3>
 
 <p>
-    I got started with programming back when I was a kid. When I created a new Roblox account in 2017 when I was 12 years old, I discovered Roblox Studio. At first, I was only playing around with modeling, though I wasn't very good at it yet. Eventually, (perhaps in 2018 or 2019) I got some scripting experience by editing scripts from the toolbox, where other users publish items for others to use freely. I learned to do very simple editing in Lua and eventually had some success making simple scripts from scratch. It wasn't until around 2021 that I really got into programming. In 2021-2022, I attended a Mobile App Development program at Tulsa Tech, where I learned to program in Swift for iOS apps during the first semester, and Kotlin for Android apps during the second. I have since mostly forgotten Swift, nor do I care to revisit it. Instead, I greatly enjoyed making Android apps with Kotlin, and I have done many side projects in it. I've even made some desktop applications with Kotlin. Near the end of the 2021-2022 school year, I started experimenting with Unity. I made a couple applications with Unity, though only one of them was an actual game, and I never finished it. I've since published 3 apps on the Google Play Store: two games and one joke app based on a meme. You can find these apps <a href="https://play.google.com/store/apps/developer?id=《Zytronium》">here</a>. You can also find a few of my desktop applications I published to itch.io <a href="https://zytronium.itch.io">here</a>. On April 29, 2024, I started attending Atlas School in Tulsa, Oklahoma, where I'm enrolled in the Full-Stack Web Development program, and will graduate in December 2025, shortly before my 21st birthday. At Atlas School, I have learned Linux Bash commands, shell scripting, C, Python, JavaScript, HTML, CSS, and SQL, as well as how to use certain tools like Docker, MongoDB, and SCSS/SASS. Similar to my experience at Tulsa Tech, Atlas School has helped me find my interest in web development, and I have created many side projects in HTML and JavaScript.
+    I got started with programming back when I was a kid. When I created a new Roblox account in 2017 when I was 12 years old, I discovered Roblox Studio. At first, I was only playing around with modeling, though I wasn't very good at it yet. Eventually, (perhaps in 2018 or 2019) I got some scripting experience by editing scripts from the toolbox, where other users publish items for others to use freely. I learned to do very simple editing in Lua and eventually had some success making simple scripts from scratch. It wasn't until around 2021 that I really got into programming. In 2021-2022, I attended a Mobile App Development program at Tulsa Tech, where I learned to program in Swift for iOS apps during the first semester, and Kotlin for Android apps during the second. I have since mostly forgotten Swift, nor do I care to revisit it. Instead, I greatly enjoyed making Android apps with Kotlin, and I have done many side projects in it. I've even made some desktop applications with Kotlin. Near the end of the 2021-2022 school year, I started experimenting with Unity. I made a couple applications with Unity, though only one of them was an actual game, and I never finished it. I've since published 3 apps on the Google Play Store: two games and one joke app based on a meme. You can find these apps <a href="https://play.google.com/store/apps/developer?id=《Zytronium》">here</a>. You can also find a few of my desktop applications I published to itch.io <a href="https://zytronium.itch.io">here</a>. On April 29, 2024, I started attending Atlas School in Tulsa, Oklahoma, where I'm enrolled in the Full-Stack Web Development program, and will graduate in December 2025, shortly before my 21st birthday. At Atlas School, I have learned Linux Bash commands, shell scripting, C, Python, JavaScript, TypeScript, HTML, CSS, and SQL, as well as how to use certain tools nd frameworks like Docker, MongoDB, Firebase, Vercel, Vite, React, Next.js, Express.js, Node.js, Vite, SCSS/SASS, and many more. Similar to my experience at Tulsa Tech, Atlas School has helped me find my interest in web development, and I have created many side projects with the skills I've learned there, including my [personal developer website](https://zytronium.dev/).
 </p>
 
 <h4>Summary:</h4>
@@ -183,18 +184,19 @@ As of October 6th, 2025, I have a total of 213 repositories, 121 of which are pu
   <li>Video Game Development</li>
   <li>Web Development</li>
   <li>Mobile App Development</li>
-  <li>Flight Simulator Development</li>
   <li>Operating System Development</li>
+  <li>Aircraft System Software Design</li>
+  <li>Flight Simulator Development</li>
   <li>Side Job: Commercial Drone Pilot</li>
 </ul>
 
 <h4>Career Goals:</h4>
 <ul>
   <li>Enjoy my career</li>
-  <li>Contribute to something important or useful, like software used on a spacecraft (I.E. Voyager 1 & 2 or the first manned mission to Mars)</li>
+  <li>Contribute to something important or useful, like software used on a spacecraft (I.E. Voyager 1 & 2 or the first manned mission to Mars or a viable YouTube alternative)</li>
   <li>Create my dream OS, which blends the best of Linux and Windows, appealing to the average Linux and Windows users and being suitable for gaming, development, and casual use</li>
 </ul>
 
 My curent top interests are web-based game development, learning Rust, and potentially building my first operating system using Rust. In fact, I have a rather ambitious plan for a revolutionary desktop OS called CustomixOS that combines the best of Windows and Linux while maintaining cross-platform compatibility and a fully customizable setup. You can read more about it in [this Proton Doc I wrote](https://drive.proton.me/urls/71TRSGJ0D4#7AYkUwGRqfh8).
 
-[![](https://visitcount.itsvg.in/api?id=Zytronium&label=Profile%20Views&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in)
+![Profile Views Counter](https://views.gonzalohirsch.com/gh?user=Zytronium)
