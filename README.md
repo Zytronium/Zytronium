@@ -1,5 +1,5 @@
-
-<h1 align="center">Hello World! 👋 I'm Zytronium</h1>
+<img width="160%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello,+World!&height=100&section=header"/>
+<h1 align="center">I'm Zytronium</h1>
 <h3 align="center">A passionate developer from Tulsa, Oklahoma</h3>
 
 `🗒 About_me.txt                                                                                 ⎯ 🗗🗙`
@@ -151,13 +151,13 @@ As of October 8th, 2025, I have a total of 213 repositories, 121 of which are pu
 
 <h3 align="center">My GitHub User Statistics:</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zytronium&show_icons=true&locale=en&layout=compact" alt="Top Languages Widget" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=zytronium&show_icons=true&locale=en" alt="User Statistics Widget" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zytronium&" alt="Contribution Streak Widget" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zytronium&show_icons=true&theme=dracula&locale=en&layout=compact" alt="Top Languages Widget" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=zytronium&show_icons=true&theme=dracula&locale=en" alt="User Statistics Widget" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zytronium&theme=dracula" alt="Contribution Streak Widget" /></p>
 
 <hr>
 
-<p>Visit my personal **<a href="https://zytronium.dev/">developer website</a>**! I put a lot of time into making it look great.</p>
+<p>Visit my personal <a href="https://zytronium.dev/"><strong>developer website</strong></a>! I put a lot of time into making it look great.</p>
 
 <hr>
 
@@ -199,4 +199,6 @@ As of October 8th, 2025, I have a total of 213 repositories, 121 of which are pu
 
 My curent top interests are web-based game development, learning Rust, and potentially building my first operating system using Rust. In fact, I have a rather ambitious plan for a revolutionary desktop OS called CustomixOS that combines the best of Windows and Linux while maintaining cross-platform compatibility and a fully customizable setup. You can read more about it in [this Proton Doc I wrote](https://drive.proton.me/urls/71TRSGJ0D4#7AYkUwGRqfh8).
 
-![Profile Views Counter](https://views.gonzalohirsch.com/gh?user=Zytronium)
+[![Zytronium profile views](https://u8views.com/api/v1/github/profiles/90411599/views/day-week-month-total-count.svg)](https://u8views.com/github/Zytronium)
+
+<img width="160%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
