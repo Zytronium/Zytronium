@@ -66,7 +66,7 @@
 - <img align="center" src="https://raw.githubusercontent.com/Zytronium/satire_dev_blog/refs/heads/main/public/fixed_it.png" alt="console.blog('satire');" height="25" width="25"/> **[Satire Dev Blog](https://satire.zytronium.dev/)**
 - <img align="center" src="https://startrekbattlesim.zytronium.dev/favicon.ico" alt="STBE" height="25" width="25"/> **[Star Trek Battle Engine](https://startrekbattlesim.zytronium.dev/)**
 
-As of October 8th, 2025, I have a total of 213 repositories, 121 of which are public. Recently, I have been mostly making websites. Less recently, I made python scripts and tools. In the past, I made more Android mobile apps and desktop apps with Kotlin.
+As of October 27th, 2025, I have a total of 221 repositories, 126 of which are public. Recently, I have been mostly making websites. Less recently, I made python scripts and tools. In the past, I made more Android mobile apps and desktop apps with Kotlin.
 
 ---
 
@@ -145,6 +145,16 @@ As of October 8th, 2025, I have a total of 213 repositories, 121 of which are pu
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
     <!-- Bash -->
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/2048px-Bash_Logo_Colored.svg.png" alt="bash" width="40" height="40"/> </a>
+</p>
+
+<h3 align="left">Top 3 Favorite Languages:</h3>
+<p align="left">
+    <!-- Python -->
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="55" height="55"/> </a>
+    <!-- Javascript -->
+  <a href="https://www.javascript.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="javascript" width="40" height="40"/> </a>
+    <!-- Kotlin -->
+  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://share.zytronium.dev/images/Kotlin%20Full%20Color%20Logo%20Mark%20RGB.svg" alt="kotlin" width="40" height="30"/> </a>
 </p>
 
 <hr>
