@@ -1,6 +1,6 @@
 <img width="160%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello,+World!&height=100&section=header"/>
 <h1 align="center">I'm Zytronium</h1>
-<h3 align="center">A passionate developer from Tulsa, Oklahoma</h3>
+<h3 align="center">A passionate developer from Oklahoma</h3>
 
 `🗒 About_me.txt                                                                                 ⎯ 🗗🗙`
 
@@ -54,7 +54,7 @@
 <hr>
 
 - <img align="center" src="https://thefactionnexus.tech/assets/favicons/favicon-32x32.png" alt="TFN" height="25" width="25" /> I’m currently working on **[The Faction Nexus](https://thefactiontexus.tech/about)**
-- <img align="center" src="https://cdn.prod.website-files.com/6571f4826e9363343bcd2acd/6595a5223c011701af533b5f_Atlas_favicon.png" alt="Lumi" height="25" width="25" /> I’m currently learning to program at **[Atlas School](https://www.atlasschool.com), Tulsa**
+- <img align="center" src="https://cdn.prod.website-files.com/6571f4826e9363343bcd2acd/6595a5223c011701af533b5f_Atlas_favicon.png" alt="Lumi" height="25" width="25" /> Graduating coding school in **December, 2025**
 - <img align="center" src="https://prev.rust-lang.org/logos/rust-logo-256x256.png" alt="Rust" height="25" width="25" /> I'm currently teaching myself **Rust** with RustRover's built-in **["100 Exercises To Learn Rust"](https://rust-exercises.com/100-exercises/)**
 
 <hr>
@@ -174,17 +174,17 @@ As of October 27th, 2025, I have a total of 221 repositories, 126 of which are p
 <h3 align="center">My Developer Backstory</h3>
 
 <p>
-    I got started with programming back when I was a kid. When I created a new Roblox account in 2017 when I was 12 years old, I discovered Roblox Studio. At first, I was only playing around with modeling, though I wasn't very good at it yet. Eventually, (perhaps in 2018 or 2019) I got some scripting experience by editing scripts from the toolbox, where other users publish items for others to use freely. I learned to do very simple editing in Lua and eventually had some success making simple scripts from scratch. It wasn't until around 2021 that I really got into programming. In 2021-2022, I attended a Mobile App Development program at Tulsa Tech, where I learned to program in Swift for iOS apps during the first semester, and Kotlin for Android apps during the second. I have since mostly forgotten Swift, nor do I care to revisit it. Instead, I greatly enjoyed making Android apps with Kotlin, and I have done many side projects in it. I've even made some desktop applications with Kotlin. Near the end of the 2021-2022 school year, I started experimenting with Unity. I made a couple applications with Unity, though only one of them was an actual game, and I never finished it. I've since published 3 apps on the Google Play Store: two games and one joke app based on a meme. You can find these apps <a href="https://play.google.com/store/apps/developer?id=《Zytronium》">here</a>. You can also find a few of my desktop applications I published to itch.io <a href="https://zytronium.itch.io">here</a>. On April 29, 2024, I started attending Atlas School in Tulsa, Oklahoma, where I'm enrolled in the Full-Stack Web Development program, and will graduate in December 2025, shortly before my 21st birthday. At Atlas School, I have learned Linux Bash commands, shell scripting, C, Python, JavaScript, TypeScript, HTML, CSS, and SQL, as well as how to use certain tools nd frameworks like Docker, MongoDB, Firebase, Vercel, Vite, React, Next.js, Express.js, Node.js, Vite, SCSS/SASS, and many more. Similar to my experience at Tulsa Tech, Atlas School has helped me find my interest in web development, and I have created many side projects with the skills I've learned there, including my [personal developer website](https://zytronium.dev/).
+    I got started with programming back when I was a kid. When I created a new Roblox account in 2017 when I was 12 years old, I discovered Roblox Studio. At first, I was only playing around with modeling, though I wasn't very good at it yet. Eventually, (perhaps in 2018 or 2019) I got some scripting experience by editing scripts from the toolbox, where other users publish items for others to use freely. I learned to do very simple editing in Lua and eventually had some success making simple scripts from scratch. It wasn't until around 2021 that I really got into programming. In 2021-2022, I attended a Mobile App Development program at a tech school, where I learned to program in Swift for iOS apps during the first semester, and Kotlin for Android apps during the second. I have since mostly forgotten Swift, nor do I care to revisit it. Instead, I greatly enjoyed making Android apps with Kotlin, and I have done many side projects in it. I've even made some desktop applications with Kotlin. Near the end of the 2021-2022 school year, I started experimenting with Unity. I made a couple applications with Unity, though only one of them was an actual game, and I never finished it. I've since published 3 apps on the Google Play Store: two games and one joke app based on a meme. You can find these apps <a href="https://play.google.com/store/apps/developer?id=《Zytronium》">here</a>. You can also find a few of my desktop applications I published to itch.io <a href="https://zytronium.itch.io">here</a>. On April 29, 2024, I started attending coding school in where I'm enrolled in the Full-Stack Web Development program, and will graduate in December 2025, shortly before my 21st birthday. At this school, I have learned Linux Bash commands, shell scripting, C, Python, JavaScript, TypeScript, HTML, CSS, and SQL, as well as how to use certain tools and frameworks like Docker, MongoDB, Firebase, Vercel, Vite, React, Next.js, Express.js, Node.js, Vite, SCSS/SASS, and many more. Similar to my experience at Tech, this school has helped me find my interest in web development, and I have created many side projects with the skills I've learned there, including my [personal developer website](https://zytronium.dev/).
 </p>
 
 <h4>Summary:</h4>
 
 <ul>
   <li>First exposure to programming was Roblox Studio | 2017</li>
-  <li>Attended Mobile App Development at Tulsa Tech | 2021-2022</li>
+  <li>Attended Mobile App Development class | 2021-2022</li>
   <li>Developed mobile apps and desktop applications as a hobby | 2022-2024</li>
   <li>Graduated high school | 2023</li>
-  <li>Attending Atlas School | 2024-Present (expected 12/2025)</li>
+  <li>Attending Full-Stack Web Development course | 2024-Present (expected 12/2025)</li>
 </ul>
 
 <h4>Career Interests:</h4>
