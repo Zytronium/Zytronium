@@ -164,7 +164,6 @@ As of November 9th, 2025, I have a total of 228 repositories, 122 of which are p
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zytronium&show_icons=true&theme=dracula&locale=en&layout=compact" alt="Top Languages Widget" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=zytronium&show_icons=true&theme=dracula&locale=en" alt="User Statistics Widget" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zytronium&theme=dracula" alt="Contribution Streak Widget" /></p>
-<p>Notice: If the above streak shows less than 42, it is wrong. Add 42 to whatever you see here.</p>
 
 <hr>
 
