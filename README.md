@@ -62,7 +62,7 @@
 <h3>Top Current & Recent Projects</h3>
 
 - <img align="center" src="https://thefactionnexus.tech/assets/favicons/favicon-32x32.png" alt="TFN" height="25" width="25"/> **[The Faction Nexus](https://thefactionnexus.tech/)**
-- <img align="center" src="https://zytronium.dev/images/zytronium_dev_logo_rounded.png" alt="Zytronium.Dev" height="25" width="25"/> **[Enhanced Rework](https://github.com/Zytronium/zytronium.dev-v3)** of my [developer website](https://zytronium.dev)
+- <img align="center" src="https://zytronium.dev/images/zytronium_dev_logo_rounded.png" alt="Zytronium.Dev" height="25" width="25"/> **[Enhanced Rework](https://github.com/Zytronium/zytronium.dev)** of my [developer website](https://zytronium.dev)
 - <img align="center" src="https://raw.githubusercontent.com/Zytronium/satire_dev_blog/refs/heads/main/public/fixed_it.png" alt="console.blog('satire');" height="25" width="25"/> **[Satire Dev Blog](https://satire.zytronium.dev/)**
 - <img align="center" src="https://raw.githubusercontent.com/Zytronium/star-trek-battle-sim/master/src/public/favicon.ico" alt="STBE" height="25" width="25"/> **[Star Trek Battle Engine](https://startrekbattlesim.zytronium.dev/)**
 
