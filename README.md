@@ -66,7 +66,7 @@
 - <img align="center" src="https://raw.githubusercontent.com/Zytronium/satire_dev_blog/refs/heads/main/public/fixed_it.png" alt="console.blog('satire');" height="25" width="25"/> **[Satire Dev Blog](https://satire.zytronium.dev/)**
 - <img align="center" src="https://raw.githubusercontent.com/Zytronium/star-trek-battle-sim/master/src/public/favicon.ico" alt="STBE" height="25" width="25"/> **[Star Trek Battle Engine](https://startrekbattlesim.zytronium.dev/)**
 
-As of November 11th, 2025, I have a total of 229 repositories, 123 of which are public. Recently, I have been mostly making websites. Less recently, I made python scripts and tools. In the past, I made more Android mobile apps and desktop apps with Kotlin.
+As of November 18th, 2025, I have a total of 231 repositories, 125 of which are public. Recently, I have been mostly making websites. Less recently, I made python scripts and tools. In the past, I made more Android mobile apps and desktop apps with Kotlin.
 
 ---
 
