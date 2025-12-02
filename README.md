@@ -208,7 +208,7 @@ As of Devember 2nd, 2025, I have a total of 239 repositories, 127 of which are p
   <li>Create my dream OS, which blends the best of Linux and Windows, appealing to the average Linux and Windows users and being suitable for gaming, development, and casual use</li>
 </ul>
 
-My curent top interests are web-based game development, learning Rust, and potentially building my first operating system using Rust. In fact, I have a rather ambitious plan for a revolutionary desktop OS called CustomixOS that combines the best of Windows and Linux while maintaining cross-platform compatibility and a fully customizable setup. You can read more about it in [this Proton Doc I wrote](https://drive.proton.me/urls/71TRSGJ0D4#7AYkUwGRqfh8).
+My curent top interests are web-based game development, learning Rust, and building a viable YouTube alternative.
 
 [![Zytronium profile views](https://u8views.com/api/v1/github/profiles/90411599/views/day-week-month-total-count.svg)](https://u8views.com/github/Zytronium)
 
