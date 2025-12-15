@@ -53,7 +53,7 @@
 
 <hr>
 
-- <img align="center" src="https://stellicast.vercel.app/logo.png" alt="Stellicast" height="25" width="25" /> I’m currently working on **[Stellicast](https://roadmap.stellicast.vercel.app/)**
+- <img align="center" src="https://stellicast.vercel.app/logo.png" alt="Stellicast" height="25" width="25" /> I’m currently working on **[Stellicast](https://stellicast-roadmap.vercel.app/)**
 - <img align="center" src="https://cdn.prod.website-files.com/6571f4826e9363343bcd2acd/6595a5223c011701af533b5f_Atlas_favicon.png" alt="Lumi" height="25" width="25" /> Graduating [Atlas School](https://www.atlasschool.com/) on **December 18, 2025**
 - <img align="center" src="https://prev.rust-lang.org/logos/rust-logo-256x256.png" alt="Rust" height="25" width="25" /> I'm currently teaching myself **Rust** with RustRover's built-in **["100 Exercises To Learn Rust"](https://rust-exercises.com/100-exercises/)**
 
