@@ -53,8 +53,8 @@
 
 <hr>
 
-- <img align="center" src="https://raw.githubusercontent.com/Aeroduel/server/b40c4468d38a05f58f3935c6df0b364b76931f3e/public/logo.svg" alt="Aeroduel" height="25" width="25" /> I’m currently working on **[Aeroduel](https://github.com/Aeroduel)**
-- <img align="center" src="https://cdn.prod.website-files.com/6571f4826e9363343bcd2acd/6595a5223c011701af533b5f_Atlas_favicon.png" alt="Lumi" height="25" width="25" /> Graduating coding school on **December 18, 2025**
+- <img align="center" src="https://stellicast.vercel.app/logo.png" alt="Stellicast" height="25" width="25" /> I’m currently working on **[Stellicast](https://roadmap.stellicast.vercel.app/)**
+- <img align="center" src="https://cdn.prod.website-files.com/6571f4826e9363343bcd2acd/6595a5223c011701af533b5f_Atlas_favicon.png" alt="Lumi" height="25" width="25" /> Graduating [Atlas School](https://www.atlasschool.com/) on **December 18, 2025**
 - <img align="center" src="https://prev.rust-lang.org/logos/rust-logo-256x256.png" alt="Rust" height="25" width="25" /> I'm currently teaching myself **Rust** with RustRover's built-in **["100 Exercises To Learn Rust"](https://rust-exercises.com/100-exercises/)**
 
 <hr>
@@ -62,12 +62,12 @@
 <h3>Top Current & Recent Projects</h3>
 
 - <img align="center" src="https://raw.githubusercontent.com/Aeroduel/server/b40c4468d38a05f58f3935c6df0b364b76931f3e/public/logo.svg" alt="Aeroduel" height="25" width="25"/> **[Aeroduel](https://github.com/Aeroduel)**
-- <img align="center" src="https://thefactionnexus.tech/assets/favicons/favicon-32x32.png" alt="TFN" height="25" width="25"/> **[The Faction Nexus](https://thefactionnexus.tech/)**
+- <img align="center" src="https://thefactionnexus.zytronium.dev/assets/favicons/favicon-32x32.png" alt="TFN" height="25" width="25"/> **[The Faction Nexus](https://thefactionnexus.zytronium.dev/)**
 - <img align="center" src="https://zytronium.dev/images/zytronium_dev_logo_rounded.png" alt="Zytronium.Dev" height="25" width="25"/> **[Enhanced Rework](https://github.com/Zytronium/zytronium.dev)** of my [developer website](https://zytronium.dev)
 - <img align="center" src="https://raw.githubusercontent.com/Zytronium/satire_dev_blog/refs/heads/main/public/fixed_it.png" alt="console.blog('satire');" height="25" width="25"/> **[Satire Dev Blog](https://satire.zytronium.dev/)**
 - <img align="center" src="https://raw.githubusercontent.com/Zytronium/star-trek-battle-sim/master/src/public/favicon.ico" alt="STBE" height="25" width="25"/> **[Star Trek Battle Engine](https://startrekbattlesim.zytronium.dev/)**
 
-As of Devember 2nd, 2025, I have a total of 239 repositories, 127 of which are public. Recently, I have been mostly making websites and web servers. Less recently, I made python scripts and tools. In the past, I made more Android mobile apps and desktop apps with Kotlin. Currently, I'm working on a team project called Aeroduel, a project that belnds hardware engineering and software engineering to make an RC plane dogfighting game with real life RC jets and open-source, well-documented software. 
+As of Devember 15th, 2025, I have a total of 242 repositories, 129 of which are public. Recently, I have been mostly making websites and web servers. Less recently, I made python scripts and tools. In the past, I made more Android mobile apps and desktop apps with Kotlin. Currently, I'm starting work on a YouTube altertative called Stellicast. This YouTube-like competitor aims to fix most things people dislike about modern YouTube, providing a privacy-focused platform for video sharing that has fewer ads, doesn't track your or sell your information, provides proper and strict human moderation, and listens to community feedback. 
 
 ---
 
@@ -76,7 +76,7 @@ As of Devember 2nd, 2025, I have a total of 239 repositories, 127 of which are p
 <p align="left">
 <a href="https://bsky.app/profile/zytronium.dev" target="blank"><img align="center" src="https://vectorseek.com/wp-content/uploads/2024/01/Bluesky-Logo-Vector.svg-.png" alt="Bluesky" height="40" width="40" /></a>
 <a href="https://www.youtube.com/@Zytron" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="50" width="40" /></a>
-<a href="https://discord.gg/nMXxW5xVM4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="40" width="40" /></a>
+<a href="https://discord.gg/nMXxW5xVM4" target="blank"><img align="center" src="http://share.zytronium.dev/images/discord-round-color-icon.svg" alt="Discord" height="40" width="40" /></a>
 <a href="https://app.daily.dev/zytronium" target="blank"><img align="center" src="https://docs.daily.dev/img/logo.png" alt="Daily.dev" height="40" width="40" /></a>
 </p>
 
@@ -115,7 +115,7 @@ As of Devember 2nd, 2025, I have a total of 239 repositories, 127 of which are p
     <!-- Lua -->
   <a href="https://www.lua.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/lua/lua-icon.svg" alt="lua" width="40" height="40"/> </a>
     <!-- JavaScript -->
-  <a href="https://www.javascript.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="javascript" width="40" height="40"/> </a>
+  <a href="https://www.javascript.com" target="_blank" rel="noreferrer"> <img src="https://brandslogos.com/wp-content/uploads/images/large/javascript-logo-vector.svg" alt="javascript" width="40" height="40"/> </a>
     <!-- TypeScript -->
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/microsoft/TypeScript-Website/f407e1ae19e5e990d9901ac8064a32a8cc60edf0/packages/typescriptlang-org/static/branding/ts-logo-512.svg" alt="typescript" width="40" height="40"/> </a>
     <!-- HTML5 -->
@@ -139,7 +139,7 @@ As of Devember 2nd, 2025, I have a total of 239 repositories, 127 of which are p
     <!-- Python -->
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
     <!-- Javascript -->
-  <a href="https://www.javascript.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="javascript" width="40" height="40"/> </a>
+  <a href="https://www.javascript.com" target="_blank" rel="noreferrer"> <img src="https://brandslogos.com/wp-content/uploads/images/large/javascript-logo-vector.svg" alt="javascript" width="40" height="40"/> </a>
     <!-- TypeScript -->
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/microsoft/TypeScript-Website/f407e1ae19e5e990d9901ac8064a32a8cc60edf0/packages/typescriptlang-org/static/branding/ts-logo-512.svg" alt="typescript" width="40" height="40"/> </a>
     <!-- HTML5 -->
@@ -153,7 +153,7 @@ As of Devember 2nd, 2025, I have a total of 239 repositories, 127 of which are p
     <!-- Python -->
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="55" height="55"/> </a>
     <!-- Javascript -->
-  <a href="https://www.javascript.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="javascript" width="40" height="40"/> </a>
+  <a href="https://www.javascript.com" target="_blank" rel="noreferrer"> <img src="https://brandslogos.com/wp-content/uploads/images/large/javascript-logo-vector.svg" alt="javascript" width="40" height="40"/> </a>
     <!-- Kotlin -->
   <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://share.zytronium.dev/images/Kotlin%20Full%20Color%20Logo%20Mark%20RGB.svg" alt="kotlin" width="40" height="30"/> </a>
 </p>
@@ -175,7 +175,7 @@ As of Devember 2nd, 2025, I have a total of 239 repositories, 127 of which are p
 <h3 align="center">My Developer Backstory</h3>
 
 <p>
-    I got started with programming back when I was a kid. When I created a new Roblox account in 2017 when I was 12 years old, I discovered Roblox Studio. At first, I was only playing around with modeling, though I wasn't very good at it yet. Eventually, (perhaps in 2018 or 2019) I got some scripting experience by editing scripts from the toolbox, where other users publish items for others to use freely. I learned to do very simple editing in Lua and eventually had some success making simple scripts from scratch. It wasn't until around 2021 that I really got into programming. In 2021-2022, I attended a Mobile App Development program at a tech school, where I learned to program in Swift for iOS apps during the first semester, and Kotlin for Android apps during the second. I have since mostly forgotten Swift, nor do I care to revisit it. Instead, I greatly enjoyed making Android apps with Kotlin, and I have done many side projects in it. I've even made some desktop applications with Kotlin. Near the end of the 2021-2022 school year, I started experimenting with Unity. I made a couple applications with Unity, though only one of them was an actual game, and I never finished it. I've since published 3 apps on the Google Play Store: two games and one joke app based on a meme. You can find these apps <a href="https://play.google.com/store/apps/developer?id=《Zytronium》">here</a>. You can also find a few of my desktop applications I published to itch.io <a href="https://zytronium.itch.io">here</a>. On April 29, 2024, I started attending coding school in where I'm enrolled in the Full-Stack Web Development program, and will graduate in December 2025, shortly before my 21st birthday. At this school, I have learned Linux Bash commands, shell scripting, C, Python, JavaScript, TypeScript, HTML, CSS, and SQL, as well as how to use certain tools and frameworks like Docker, MongoDB, Firebase, Vercel, Vite, React, Next.js, Express.js, Node.js, Vite, SCSS/SASS, and many more. Similar to my experience at Tech, this school has helped me find my interest in web development, and I have created many side projects with the skills I've learned there, including my <a href="https://zytronium.dev">personal developer website</a>.
+    I got started with programming back when I was a kid. When I created a new Roblox account in 2017 when I was 12 years old, I discovered Roblox Studio. At first, I was only playing around with modeling, though I wasn't very good at it yet. Eventually, (perhaps in 2018 or 2019) I got some scripting experience by editing scripts from the toolbox, where other users publish items for others to use freely. I learned to do very simple editing in Lua and eventually had some success making simple scripts from scratch. It wasn't until around 2021 that I really got into programming. In 2021-2022, I attended a Mobile App Development program at a tech school, where I learned to program in Swift for iOS apps during the first semester, and Kotlin for Android apps during the second. I have since mostly forgotten Swift, nor do I care to revisit it. Instead, I greatly enjoyed making Android apps with Kotlin, and I have done many side projects in it. I've even made some desktop applications with Kotlin. Near the end of the 2021-2022 school year, I started experimenting with Unity. I made a couple applications with Unity, though only one of them was an actual game, and I never finished it. I've since published 3 apps on the Google Play Store: two games and one joke app based on a meme. You can find these apps <a href="https://play.google.com/store/apps/developer?id=《Zytronium》">here</a>. You can also find a few of my desktop applications I published to itch.io <a href="https://zytronium.itch.io">here</a>. On April 29, 2024, I started attending Atlas School in where I'm enrolled in the Full-Stack Web Development program, and will graduate in December 2025, shortly before my 21st birthday. At this school, I have learned Linux Bash commands, shell scripting, C, Python, JavaScript, TypeScript, HTML, CSS, and SQL, as well as how to use certain tools and frameworks like Docker, MongoDB, Firebase, Vercel, Vite, React, Next.js, Express.js, Node.js, Vite, SCSS/SASS, and many more. Similar to my experience at Tech, this school has helped me find my interest in web development, and I have created many side projects with the skills I've learned there, including my <a href="https://zytronium.dev">personal developer website</a>.
 </p>
 
 <h4>Summary:</h4>
