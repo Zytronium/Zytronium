@@ -36,12 +36,11 @@
 
   
 《 Misc. 》
-  》 Attending Coding School
+  》 Recently Graduated Coding School
   》 Lives in CST Timezone 
   》 Perfectionist
   》 Favorite Language I Know: Python
   》 Least Favorite Language I Know: C
-  》 Favorite Language I Don't Quite Know Yet: Rust
 
 ```
 
@@ -54,7 +53,7 @@
 <hr>
 
 - <img align="center" src="https://stellicast.vercel.app/logo.png" alt="Stellicast" height="25" width="25" /> I’m currently working on **[Stellicast](https://stellicast-roadmap.vercel.app/)**
-- <img align="center" src="https://cdn.prod.website-files.com/6571f4826e9363343bcd2acd/6595a5223c011701af533b5f_Atlas_favicon.png" alt="Lumi" height="25" width="25" /> Graduating [Atlas School](https://www.atlasschool.com/) on **December 18, 2025**
+- <img align="center" src="https://cdn.prod.website-files.com/6571f4826e9363343bcd2acd/6595a5223c011701af533b5f_Atlas_favicon.png" alt="Lumi" height="25" width="25" /> Graduated [Atlas School](https://www.atlasschool.com/) on **December 18, 2025**
 - <img align="center" src="https://prev.rust-lang.org/logos/rust-logo-256x256.png" alt="Rust" height="25" width="25" /> I'm currently teaching myself **Rust** with RustRover's built-in **["100 Exercises To Learn Rust"](https://rust-exercises.com/100-exercises/)**
 
 <hr>
@@ -67,7 +66,7 @@
 - <img align="center" src="https://raw.githubusercontent.com/Zytronium/satire_dev_blog/refs/heads/main/public/fixed_it.png" alt="console.blog('satire');" height="25" width="25"/> **[Satire Dev Blog](https://satire.zytronium.dev/)**
 - <img align="center" src="https://raw.githubusercontent.com/Zytronium/star-trek-battle-sim/master/src/public/favicon.ico" alt="STBE" height="25" width="25"/> **[Star Trek Battle Engine](https://startrekbattlesim.zytronium.dev/)**
 
-As of Devember 15th, 2025, I have a total of 242 repositories, 129 of which are public. Recently, I have been mostly making websites and web servers. Less recently, I made python scripts and tools. In the past, I made more Android mobile apps and desktop apps with Kotlin. Currently, I'm starting work on a YouTube altertative called Stellicast. This YouTube-like competitor aims to fix most things people dislike about modern YouTube, providing a privacy-focused platform for video sharing that has fewer ads, doesn't track your or sell your information, provides proper and strict human moderation, and listens to community feedback. 
+As of Devember 20th, 2025, I have a total of 243 repositories, 130 of which are public. Recently, I have been mostly making websites and web servers. Less recently, I made python scripts and tools. In the past, I made more Android mobile apps and desktop apps with Kotlin. Currently, I'm starting work on a YouTube altertative called Stellicast. This YouTube-like competitor aims to fix most things people dislike about modern YouTube, providing a privacy-focused platform for video sharing that has fewer ads, doesn't track your or sell your information, provides proper and strict human moderation, and listens to community feedback. 
 
 ---
 
@@ -185,7 +184,8 @@ As of Devember 15th, 2025, I have a total of 242 repositories, 129 of which are 
   <li>Attended Mobile App Development class | 2021-2022</li>
   <li>Developed mobile apps and desktop applications as a hobby | 2022-2024</li>
   <li>Graduated high school | 2023</li>
-  <li>Attending Full-Stack Web Development course | 2024-Present (expected 12/18/2025)</li>
+  <li>Attended Full-Stack Web Development course | 2024-2025</li>
+  <li>Searching for a job | Dec 2025-Present</li>
 </ul>
 
 <h4>Career Interests:</h4>
