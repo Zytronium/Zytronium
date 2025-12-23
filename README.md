@@ -210,6 +210,12 @@ As of Devember 20th, 2025, I have a total of 243 repositories, 130 of which are 
 
 My curent top interests are web-based game development, learning Rust, and building a viable YouTube alternative.
 
+---
+
+Like what you see? Consider supporting me!
+
+<a href="https://www.buymeacoffee.com/zytronium" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-blue.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+
 [![Zytronium profile views](https://u8views.com/api/v1/github/profiles/90411599/views/day-week-month-total-count.svg)](https://u8views.com/github/Zytronium)
 
 <img width="160%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
