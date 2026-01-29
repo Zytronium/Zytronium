@@ -66,7 +66,7 @@
 - <img align="center" src="https://raw.githubusercontent.com/Zytronium/satire_dev_blog/refs/heads/main/public/fixed_it.png" alt="console.blog('satire');" height="25" width="25"/> **[Satire Dev Blog](https://satire.zytronium.dev/)**
 - <img align="center" src="https://raw.githubusercontent.com/Zytronium/star-trek-battle-sim/master/src/public/favicon.ico" alt="STBE" height="25" width="25"/> **[Star Trek Battle Engine](https://startrekbattlesim.zytronium.dev/)**
 
-As of Devember 20th, 2025, I have a total of 249 repositories, 136 of which are public. Recently, I have been mostly making websites and web servers. Less recently, I made python scripts and tools. In the past, I made more Android mobile apps and desktop apps with Kotlin. Currently, I'm starting work on a YouTube altertative called Stellicast. This YouTube-like competitor aims to fix most things people dislike about modern YouTube, providing a privacy-focused platform for video sharing that has fewer ads, doesn't track your or sell your information, provides proper and strict human moderation, and listens to community feedback. 
+As of January 28th, 2026, I have a total of 258 repositories, 140 of which are public. Recently, I have been mostly making websites and web servers. Less recently, I made python scripts and tools. In the past, I made more Android mobile apps and desktop apps with Kotlin. Currently, I'm starting work on a YouTube altertative called Stellicast. This YouTube-like competitor aims to fix most things people dislike about modern YouTube, providing a privacy-focused platform for video sharing that has fewer ads, doesn't track your or sell your information, provides proper and strict human moderation, and listens to community feedback. 
 
 ---
 
