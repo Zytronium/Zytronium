@@ -52,7 +52,7 @@
 
 <hr>
 
-- <img align="center" src="https://starscape.zytronium.dev/favicon.ico" alt="Starscape" height="25" width="25" /> I’m currently working on **[Starscape: Text Adventure](https://starscape.zytronium.dev/)**
+- <img align="center" src="https://luminous-chat.vercel.app/favicon.ico" alt="Luminous" height="25" width="25" /> I’m currently collaborating on **[Luminous](https://luminous-chat.vercel.app/)**
 - <img align="center" src="https://cdn.prod.website-files.com/6571f4826e9363343bcd2acd/6595a5223c011701af533b5f_Atlas_favicon.png" alt="Lumi" height="25" width="25" /> Graduated [Atlas School](https://www.atlasschool.com/) in **December, 2025**
 - <img align="center" src="https://prev.rust-lang.org/logos/rust-logo-256x256.png" alt="Rust" height="25" width="25" /> I'm currently teaching myself **Rust** with RustRover's built-in **["100 Exercises To Learn Rust"](https://rust-exercises.com/100-exercises/)**
 
@@ -60,13 +60,14 @@
 
 <h3>Top Current & Recent Projects</h3>
 
+- <img align="center" src="https://stellicast.com/favicon.ico" alt="Stellicast" height="25" width="25"/> **[Stellicast](https://stellicast.com/)**
 - <img align="center" src="https://raw.githubusercontent.com/Aeroduel/server/b40c4468d38a05f58f3935c6df0b364b76931f3e/public/logo.svg" alt="Aeroduel" height="25" width="25"/> **[Aeroduel](https://github.com/Aeroduel)**
 - <img align="center" src="https://thefactionnexus.zytronium.dev/assets/favicons/favicon-32x32.png" alt="TFN" height="25" width="25"/> **[The Faction Nexus](https://thefactionnexus.zytronium.dev/)**
 - <img align="center" src="https://zytronium.dev/images/zytronium_dev_logo_rounded.png" alt="Zytronium.Dev" height="25" width="25"/> **[Enhanced Rework](https://github.com/Zytronium/zytronium.dev)** of my [developer website](https://zytronium.dev)
 - <img align="center" src="https://raw.githubusercontent.com/Zytronium/satire_dev_blog/refs/heads/main/public/logo.svg" alt="console.blog('satire');" height="25" width="25"/> **[Satire Dev Blog](https://satire.zytronium.dev/)**
 - <img align="center" src="https://raw.githubusercontent.com/Zytronium/star-trek-battle-sim/master/src/public/favicon.ico" alt="STBE" height="25" width="25"/> **[Star Trek Battle Engine](https://startrekbattlesim.zytronium.dev/)**
 
-As of March 19th, 2026, I have a total of 279 repositories, 152 of which are public. Recently, I have been mostly making websites and web servers. Less recently, I made python scripts and tools. In the past, I made more Android mobile apps and desktop apps with Kotlin. Currently, I'm starting work on a YouTube altertative called Stellicast. This YouTube-like competitor aims to fix most things people dislike about modern YouTube, providing a privacy-focused platform for video sharing that has fewer ads, doesn't track your or sell your information, provides proper and strict human moderation, and listens to community feedback. 
+As of April 2nd, 2026, I have a total of 285 repositories, 156 of which are public. Recently, I have been mostly making websites and web servers. Less recently, I made python scripts and tools. In the past, I made more Android mobile apps and desktop apps with Kotlin. Currently, I'm starting work on a YouTube altertative called Stellicast. This YouTube-like competitor aims to fix most things people dislike about modern YouTube, providing a privacy-focused platform for video sharing that has fewer ads, doesn't track your or sell your information, provides proper and strict human moderation, and listens to community feedback. 
 
 ---
 
