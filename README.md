@@ -46,6 +46,10 @@
 
 <hr>
 
+**NOTE:** *Please bear with me while I attempt to fix my broken icon alignment problem GitHub recently introduced by updating their markdown parser.*
+
+<hr>
+
 <h3 align="center">Trophies</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zytronium&theme=darkhub&title=-Reviews" alt="zytronium" /></a> </p>
