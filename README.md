@@ -68,7 +68,7 @@
 <table>
   <tr>
     <td><a href="https://bsky.app/profile/zytronium.dev" target="blank"><img src="https://vectorseek.com/wp-content/uploads/2024/01/Bluesky-Logo-Vector.svg-.png" alt="Bluesky" height="40" width="40" /></a></td>
-    <td><a href="https://www.youtube.com/@Zytron" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="40" width="40" /></a></td>
+    <td><a href="https://www.youtube.com/@Zytronium" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="40" width="40" /></a></td>
     <td><a href="https://discord.gg/nMXxW5xVM4" target="blank"><img src="http://share.zytronium.dev/images/discord-round-color-icon.svg" alt="Discord" height="40" width="40" /></a></td>
     <td><a href="https://app.daily.dev/zytronium" target="blank"><img src="https://docs.daily.dev/img/logo.png" alt="Daily.dev" height="40" width="40" /></a></td>
   </tr>
