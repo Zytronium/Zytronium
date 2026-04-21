@@ -1,225 +1,148 @@
 <img width="160%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello,+World!&height=100&section=header"/>
+
 <h1 align="center">I'm Zytronium</h1>
-<h3 align="center">A passionate developer from Oklahoma</h3>
+<h3 align="center">Full-stack developer focused on privacy-first products, web-based games, and aerospace software</h3>
 
-`🗒 About_me.txt                                                                                 ⎯ 🗗🗙`
-
-```
-《 Hobbies 》
-  》 Flying Drones & RC Planes 
-  》 Programming
-
-《 Likes 》
-  》 Video Games - Both Playing and Creating Them
-  》 Almost any Kind of Programming
-  》 Space and Aviation
-  》 Anything Sci-Fi, Especially Star Trek
-  》 Amateur Photo Editing
-  》 Comedy
-  》 Music Without Lyrics
-  》 YouTube
-  》 Logic
-  》 Tech - Especially Software
-  》 Blue, Cyan, and Purple
-  》 My Privacy
-
-《 Dislikes 》
-  》 Also YouTube
-  》 Orange
-  》 Ads
-  》 Complex Math
-  》 Undocumented or Outdated Code
-  》 Ads
-  》 Ads
-  》 Politics
-  》 Unskipable Ads
-
-  
-《 Misc. 》
-  》 Recently Graduated Coding School
-  》 Lives in CST Timezone 
-  》 Perfectionist
-  》 Favorite Language I Know: Python
-  》 Least Favorite Language I Know: C
-
-```
+<p align="center">
+  <a href="https://zytronium.dev"><img src="https://custom-icon-badges.demolab.com/badge/zytronium.dev-4A90D9?style=flat&logo=globe&logoColor=white" alt="Website"/></a>
+  <img src="https://custom-icon-badges.demolab.com/badge/CST-555555?style=flat&logo=clock&logoColor=white" alt="Timezone"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/Open_to_Work-2ea44f?style=flat&logo=briefcase&logoColor=white" alt="Open to Work"/>
+</p>
 
 <hr>
 
-**NOTE:** *Please bear with me while I attempt to fix my broken icon alignment problem GitHub recently introduced by updating their markdown parser.*
+<table>
+  <tr>
+    <td><img src="https://luminous-chat.vercel.app/favicon.ico" alt="Luminous" height="25" width="25" /></td>
+    <td>Currently collaborating on <strong><a href="https://luminous-chat.vercel.app/">Luminous</a></strong> — a chat app for Atlas School alumni with a cross-platform Discord bridge</td>
+  </tr>
+  <tr>
+    <td><img src="https://prev.rust-lang.org/logos/rust-logo-256x256.png" alt="Rust" height="25" width="25" /></td>
+    <td>Self-teaching <strong>Rust</strong> via RustRover's built-in <strong><a href="https://rust-exercises.com/100-exercises/">"100 Exercises To Learn Rust"</a></strong></td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.prod.website-files.com/6571f4826e9363343bcd2acd/6595a5223c011701af533b5f_Atlas_favicon.png" alt="Atlas School" height="25" width="25" /></td>
+    <td>Recently graduated <strong><a href="https://www.atlasschool.com/">Atlas School</a></strong> in <strong>December, 2025</strong> — actively job searching</td>
+  </tr>
+</table>
 
 <hr>
-
-<h3 align="center">Trophies</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zytronium&theme=darkhub&title=-Reviews" alt="zytronium" /></a> </p>
-
-<hr>
-
-- <img align="center" src="https://luminous-chat.vercel.app/favicon.ico" alt="Luminous" height="25" width="25" /> I’m currently collaborating on **[Luminous](https://luminous-chat.vercel.app/)**
-- <img align="center" src="https://cdn.prod.website-files.com/6571f4826e9363343bcd2acd/6595a5223c011701af533b5f_Atlas_favicon.png" alt="Lumi" height="25" width="25" /> Graduated [Atlas School](https://www.atlasschool.com/) in **December, 2025**
-- <img align="center" src="https://prev.rust-lang.org/logos/rust-logo-256x256.png" alt="Rust" height="25" width="25" /> I'm currently teaching myself **Rust** with RustRover's built-in **["100 Exercises To Learn Rust"](https://rust-exercises.com/100-exercises/)**
-
-<hr>
-
 <h3>Top Current & Recent Projects</h3>
 
-- <img align="center" src="https://stellicast.com/favicon.ico" alt="Stellicast" height="25" width="25"/> **[Stellicast](https://stellicast.com/)**
-- <img align="center" src="https://raw.githubusercontent.com/Aeroduel/server/b40c4468d38a05f58f3935c6df0b364b76931f3e/public/logo.svg" alt="Aeroduel" height="25" width="25"/> **[Aeroduel](https://github.com/Aeroduel)**
-- <img align="center" src="https://thefactionnexus.zytronium.dev/assets/favicons/favicon-32x32.png" alt="TFN" height="25" width="25"/> **[The Faction Nexus](https://thefactionnexus.zytronium.dev/)**
-- <img align="center" src="https://zytronium.dev/images/zytronium_dev_logo_rounded.png" alt="Zytronium.Dev" height="25" width="25"/> **[Enhanced Rework](https://github.com/Zytronium/zytronium.dev)** of my [developer website](https://zytronium.dev)
-- <img align="center" src="https://raw.githubusercontent.com/Zytronium/satire_dev_blog/refs/heads/main/public/logo.svg" alt="console.blog('satire');" height="25" width="25"/> **[Satire Dev Blog](https://satire.zytronium.dev/)**
-- <img align="center" src="https://raw.githubusercontent.com/Zytronium/star-trek-battle-sim/master/src/public/favicon.ico" alt="STBE" height="25" width="25"/> **[Star Trek Battle Engine](https://startrekbattlesim.zytronium.dev/)**
-
-As of April 2nd, 2026, I have a total of 285 repositories, 156 of which are public. Recently, I have been mostly making websites and web servers. Less recently, I made python scripts and tools. In the past, I made more Android mobile apps and desktop apps with Kotlin. Currently, I'm starting work on a YouTube altertative called Stellicast. This YouTube-like competitor aims to fix most things people dislike about modern YouTube, providing a privacy-focused platform for video sharing that has fewer ads, doesn't track your or sell your information, provides proper and strict human moderation, and listens to community feedback. 
-
----
+<table>
+  <tr>
+    <td><img src="https://stellicast.com/favicon.ico" alt="Stellicast" height="25" width="25"/></td>
+    <td><strong><a href="https://stellicast.com/">Stellicast</a></strong> — Privacy-focused YouTube alternative with fewer ads, no data selling, and strict human moderation</td>
+  </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/Aeroduel/server/b40c4468d38a05f58f3935c6df0b364b76931f3e/public/logo.svg" alt="Aeroduel" height="25" width="25"/></td>
+    <td><strong><a href="https://github.com/Aeroduel">Aeroduel</a></strong> — Real-world RC aircraft combat system using computer vision to detect hits and track scores in real-time dogfights</td>
+  </tr>
+  <tr>
+    <td><img src="https://thefactionnexus.zytronium.dev/assets/favicons/favicon-32x32.png" alt="TFN" height="25" width="25"/></td>
+    <td><strong><a href="https://thefactionnexus.zytronium.dev/">The Faction Nexus</a></strong> — Community platform for Roblox Starscape (video game) factions</td>
+  </tr>
+  <tr>
+    <td><img src="https://zytronium.dev/images/zytronium_dev_logo_rounded.png" alt="Zytronium.Dev" height="25" width="25"/></td>
+    <td><strong><a href="https://zytronium.dev">My developer website</a></strong> — A recently revamped personal website showcasing my favorite projects</td>
+  </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/Zytronium/satire_dev_blog/refs/heads/main/public/logo.svg" alt="console.blog('satire');" height="25" width="25"/></td>
+    <td><strong><a href="https://satire.zytronium.dev/">Satire Dev Blog</a></strong> — Self-published satirical developer blog</td>
+  </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/Zytronium/star-trek-battle-sim/master/src/public/favicon.ico" alt="STBE" height="25" width="25"/></td>
+    <td><strong><a href="https://startrekbattlesim.zytronium.dev/">Star Trek Battle Engine</a></strong> — Turn-based space combat game based on Star Trek (unaffiliated)</td>
+  </tr>
+</table>
+<!--
+<hr>
+<h3 align="center">Trophies</h3>
+<p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zytronium&theme=darkhub&title=-Reviews" alt="zytronium" /></a></p>
+      uncomment when trophies work again
+-->
+<hr>
 
 <h3 align="left">My Socials:</h3>
 
-<p align="left">
-<a href="https://bsky.app/profile/zytronium.dev" target="blank"><img align="center" src="https://vectorseek.com/wp-content/uploads/2024/01/Bluesky-Logo-Vector.svg-.png" alt="Bluesky" height="40" width="40" /></a>
-<a href="https://www.youtube.com/@Zytron" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="50" width="40" /></a>
-<a href="https://discord.gg/nMXxW5xVM4" target="blank"><img align="center" src="http://share.zytronium.dev/images/discord-round-color-icon.svg" alt="Discord" height="40" width="40" /></a>
-<a href="https://app.daily.dev/zytronium" target="blank"><img align="center" src="https://docs.daily.dev/img/logo.png" alt="Daily.dev" height="40" width="40" /></a>
-</p>
+<table>
+  <tr>
+    <td><a href="https://bsky.app/profile/zytronium.dev" target="blank"><img src="https://vectorseek.com/wp-content/uploads/2024/01/Bluesky-Logo-Vector.svg-.png" alt="Bluesky" height="40" width="40" /></a></td>
+    <td><a href="https://www.youtube.com/@Zytron" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="40" width="40" /></a></td>
+    <td><a href="https://discord.gg/nMXxW5xVM4" target="blank"><img src="http://share.zytronium.dev/images/discord-round-color-icon.svg" alt="Discord" height="40" width="40" /></a></td>
+    <td><a href="https://app.daily.dev/zytronium" target="blank"><img src="https://docs.daily.dev/img/logo.png" alt="Daily.dev" height="40" width="40" /></a></td>
+  </tr>
+</table>
 
 <hr>
+<h3 align="left">Languages & Tools</h3>
 
-<h3 align="left">Languages and Tools I Have Experience With:</h3>
-<p align="left">
-    <!-- Git -->
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-    <!-- Docker -->
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-    <!-- MySQL -->
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-    <!-- Firebase Databases -->
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
-    <!-- Blender -->
-  <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a>
-    <!-- Unity -->
-  <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>
-    <!-- Roblox Studio -->
-  <a href="https://create.roblox.com" target="_blank" rel="noreferrer"> <img src="https://static.wikia.nocookie.net/logopedia/images/b/bd/Roblox_Studio_2022_icon.svg" alt="roblox studio" width="40" height="40"/> </a>
-    <!-- Linux (WSL, Ubuntu, Fedora, Nobara, Mint) -->
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-    <!-- Android -->
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
-    <!-- Kotlin -->
-  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://share.zytronium.dev/images/Kotlin%20Full%20Color%20Logo%20Mark%20RGB.svg" alt="kotlin" width="40" height="40"/> </a>
-    <!-- Swift -->
-  <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a>
-    <!-- Python -->
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-    <!-- C -->
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-    <!-- Rust -->
-  <a href="https://rust-lang.org/" target="_blank" rel="noreferrer"> <img src="https://share.zytronium.dev/images/icons8-rust-programming-language.svg" alt="rust" width="40" height="40"/> </a>
-    <!-- Lua -->
-  <a href="https://www.lua.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/lua/lua-icon.svg" alt="lua" width="40" height="40"/> </a>
-    <!-- JavaScript -->
-  <a href="https://www.javascript.com" target="_blank" rel="noreferrer"> <img src="https://brandslogos.com/wp-content/uploads/images/large/javascript-logo-vector.svg" alt="javascript" width="40" height="40"/> </a>
-    <!-- TypeScript -->
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/microsoft/TypeScript-Website/f407e1ae19e5e990d9901ac8064a32a8cc60edf0/packages/typescriptlang-org/static/branding/ts-logo-512.svg" alt="typescript" width="40" height="40"/> </a>
-    <!-- HTML5 -->
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-    <!-- Bash -->
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/2048px-Bash_Logo_Colored.svg.png" alt="bash" width="40" height="40"/> </a>
-</p>
+**Proficient:**
 
-<h3 align="left">Languages and Tools I'm Proficient With:</h3>
-<p align="left">
-    <!-- Git -->
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-    <!-- Firebase Databases -->
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
-    <!-- Linux (WSL, Ubuntu, Fedora) -->
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-    <!-- Android -->
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
-    <!-- Kotlin -->
-  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://share.zytronium.dev/images/Kotlin%20Full%20Color%20Logo%20Mark%20RGB.svg" alt="kotlin" width="40" height="40"/> </a>
-    <!-- Python -->
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-    <!-- Javascript -->
-  <a href="https://www.javascript.com" target="_blank" rel="noreferrer"> <img src="https://brandslogos.com/wp-content/uploads/images/large/javascript-logo-vector.svg" alt="javascript" width="40" height="40"/> </a>
-    <!-- TypeScript -->
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/microsoft/TypeScript-Website/f407e1ae19e5e990d9901ac8064a32a8cc60edf0/packages/typescriptlang-org/static/branding/ts-logo-512.svg" alt="typescript" width="40" height="40"/> </a>
-    <!-- HTML5 -->
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-    <!-- Bash -->
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/2048px-Bash_Logo_Colored.svg.png" alt="bash" width="40" height="40"/> </a>
-</p>
+<table>
+  <tr>
+    <td><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a></td>
+    <td><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a></td>
+    <td><a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a></td>
+    <td><a href="https://developer.android.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/></a></td>
+    <td><a href="https://kotlinlang.org" target="_blank" rel="noreferrer"><img src="https://share.zytronium.dev/images/Kotlin%20Full%20Color%20Logo%20Mark%20RGB.svg" alt="kotlin" width="40" height="40"/></a></td>
+    <td><a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a></td>
+    <td><a href="https://www.javascript.com" target="_blank" rel="noreferrer"><img src="https://brandslogos.com/wp-content/uploads/images/large/javascript-logo-vector.svg" alt="javascript" width="40" height="40"/></a></td>
+    <td><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/microsoft/TypeScript-Website/f407e1ae19e5e990d9901ac8064a32a8cc60edf0/packages/typescriptlang-org/static/branding/ts-logo-512.svg" alt="typescript" width="40" height="40"/></a></td>
+    <td><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a></td>
+    <td><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://bashlogo.com/img/symbol/svg/full_colored_dark.svg" alt="bash" width="40" height="40"/></a></td>
+  </tr>
+</table>
 
-<h3 align="left">Top 3 Favorite Languages:</h3>
-<p align="left">
-    <!-- Python -->
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="55" height="55"/> </a>
-    <!-- Javascript -->
-  <a href="https://www.javascript.com" target="_blank" rel="noreferrer"> <img src="https://brandslogos.com/wp-content/uploads/images/large/javascript-logo-vector.svg" alt="javascript" width="40" height="40"/> </a>
-    <!-- Kotlin -->
-  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://share.zytronium.dev/images/Kotlin%20Full%20Color%20Logo%20Mark%20RGB.svg" alt="kotlin" width="40" height="30"/> </a>
-</p>
+**Also experienced with:**
+
+<table>
+  <tr>
+    <td><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a></td>
+    <td><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a></td>
+    <td><a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/></a></td>
+    <td><a href="https://unity.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/></a></td>
+    <td><a href="https://create.roblox.com" target="_blank" rel="noreferrer"><img src="https://static.wikia.nocookie.net/logopedia/images/b/bd/Roblox_Studio_2022_icon.svg" alt="roblox studio" width="40" height="40"/></a></td>
+    <td><a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/></a></td>
+    <td><a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a></td>
+    <td><a href="https://rust-lang.org/" target="_blank" rel="noreferrer"><img src="https://share.zytronium.dev/images/icons8-rust-programming-language.svg" alt="rust" width="40" height="40"/></a></td>
+    <td><a href="https://www.lua.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/lua/lua-icon.svg" alt="lua" width="40" height="40"/></a></td>
+  </tr>
+</table>
 
 <hr>
-
 <h3 align="center">My GitHub User Statistics:</h3>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zytronium&show_icons=true&theme=dracula&locale=en&layout=compact" alt="Top Languages Widget" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=zytronium&show_icons=true&theme=dracula&locale=en" alt="User Statistics Widget" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zytronium&theme=dracula" alt="Contribution Streak Widget" /></p>
-
 <hr>
 
-<p>Visit my personal <a href="https://zytronium.dev/"><strong>developer website</strong></a>! I put a lot of time into making it look great.</p>
+<h3 align="center">Background</h3>
 
-<hr>
-
-<h3 align="center">My Developer Backstory</h3>
-
-<p>
-    I got started with programming back when I was a kid. When I created a new Roblox account in 2017 when I was 12 years old, I discovered Roblox Studio. At first, I was only playing around with modeling, though I wasn't very good at it yet. Eventually, (perhaps in 2018 or 2019) I got some scripting experience by editing scripts from the toolbox, where other users publish items for others to use freely. I learned to do very simple editing in Lua and eventually had some success making simple scripts from scratch. It wasn't until around 2021 that I really got into programming. In 2021-2022, I attended a Mobile App Development program at a tech school, where I learned to program in Swift for iOS apps during the first semester, and Kotlin for Android apps during the second. I have since mostly forgotten Swift, nor do I care to revisit it. Instead, I greatly enjoyed making Android apps with Kotlin, and I have done many side projects in it. I've even made some desktop applications with Kotlin. Near the end of the 2021-2022 school year, I started experimenting with Unity. I made a couple applications with Unity, though only one of them was an actual game, and I never finished it. I've since published 3 apps on the Google Play Store: two games and one joke app based on a meme. You can find these apps <a href="https://play.google.com/store/apps/developer?id=《Zytronium》">here</a>. You can also find a few of my desktop applications I published to itch.io <a href="https://zytronium.itch.io">here</a>. On April 29, 2024, I started attending Atlas School in where I'm enrolled in the Full-Stack Web Development program, and will graduate in December 2025, shortly before my 21st birthday. At this school, I have learned Linux Bash commands, shell scripting, C, Python, JavaScript, TypeScript, HTML, CSS, and SQL, as well as how to use certain tools and frameworks like Docker, MongoDB, Firebase, Vercel, Vite, React, Next.js, Express.js, Node.js, Vite, SCSS/SASS, and many more. Similar to my experience at Tech, this school has helped me find my interest in web development, and I have created many side projects with the skills I've learned there, including my <a href="https://zytronium.dev">personal developer website</a>.
-</p>
-
-<h4>Summary:</h4>
-
+<h4>Timeline:</h4>
 <ul>
-  <li>First exposure to programming was Roblox Studio | 2017</li>
+  <li>First exposure to programming: Roblox Studio | 2017</li>
   <li>Attended Mobile App Development class | 2021-2022</li>
   <li>Developed mobile apps and desktop applications as a hobby | 2022-2024</li>
   <li>Graduated high school | 2023</li>
-  <li>Attended 20 month Full-Stack Web Development course | 2024-2025</li>
-  <li>Searching for a job | Dec 2025-Present</li>
+  <li>Attended 20-month Full-Stack Web Development course at Atlas School | 2024-2025</li>
+  <li>Developed websites and miscellaneous programs/scripts as a hobby | 2024-Present</li>
+  <li>Actively job searching | Dec 2025-Present</li>
 </ul>
 
-<h4>Career Interests:</h4>
-
+<h4>What I'm Looking For:</h4>
 <ul>
-  <li>Anything Relating to Both Aerospace and Programming</li>
-  <li>Video Game Development</li>
-  <li>Web Development</li>
-  <li>Mobile App Development</li>
-  <li>Operating System Development</li>
-  <li>Aircraft System Software Design</li>
-  <li>Flight Simulator Development</li>
-  <li>Side Job: Commercial Drone Pilot</li>
+  <li>Roles that combine aerospace and software: flight simulators, spacecraft systems, aviation tooling</li>
+  <li>Game development, web development, or mobile app development</li>
+  <li>Building products that matter: privacy tools, open-source platforms, or something that contributes to a historical ocassion (i.e. software onboard a rocket taking the first humans to Mars)</li>
+  <li>A team with strong software engineering culture and code that's well documented</li>
 </ul>
 
-<h4>Career Goals:</h4>
-<ul>
-  <li>Enjoy my career</li>
-  <li>Contribute to something important or useful, like software used on a spacecraft (I.E. Voyager 1 & 2 or the first manned mission to Mars or a viable YouTube alternative)</li>
-  <li>Create my dream OS, which blends the best of Linux and Windows, appealing to the average Linux and Windows users and being suitable for gaming, development, and casual use</li>
-</ul>
-
-My curent top interests are web-based game development, learning Rust, and building a viable YouTube alternative.
-
----
+<p>Visit my personal <a href="https://zytronium.dev/"><strong>developer website</strong></a>! I put a lot of time into making it look great.</p>
+<hr>
 
 Like what you see? Consider supporting me!
-
-<a href="https://www.buymeacoffee.com/zytronium" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-blue.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+<a href="https://www.buymeacoffee.com/zytronium" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-blue.png" alt="Buy Me A Coffee" height="41" width="174"></a> 
 
 [![Zytronium profile views](https://u8views.com/api/v1/github/profiles/90411599/views/day-week-month-total-count.svg)](https://u8views.com/github/Zytronium)
 
