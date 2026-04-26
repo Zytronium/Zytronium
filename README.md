@@ -14,7 +14,7 @@
 <table>
   <tr>
     <td><img src="https://luminous-chat.vercel.app/favicon.ico" alt="Luminous" height="25" width="25" /></td>
-    <td>Currently collaborating on <strong><a href="https://luminous-chat.vercel.app/">Luminous</a></strong> — a chat app for Atlas School alumni with a cross-platform Discord bridge</td>
+    <td>Currently collaborating on <strong><a href="https://luminous-chat.vercel.app/">Luminous</a></strong> — a chat app for Atlas School alumni with a cross-platform Discord messaging bridge</td>
   </tr>
   <tr>
     <td><img src="https://prev.rust-lang.org/logos/rust-logo-256x256.png" alt="Rust" height="25" width="25" /></td>
@@ -83,6 +83,7 @@
   <tr>
     <td><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a></td>
     <td><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a></td>
+    <td><a href="https://supabase.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" alt="supabase" width="40" height="40"/></a></td>
     <td><a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a></td>
     <td><a href="https://developer.android.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/></a></td>
     <td><a href="https://kotlinlang.org" target="_blank" rel="noreferrer"><img src="https://share.zytronium.dev/images/Kotlin%20Full%20Color%20Logo%20Mark%20RGB.svg" alt="kotlin" width="40" height="40"/></a></td>
@@ -90,7 +91,9 @@
     <td><a href="https://www.javascript.com" target="_blank" rel="noreferrer"><img src="https://brandslogos.com/wp-content/uploads/images/large/javascript-logo-vector.svg" alt="javascript" width="40" height="40"/></a></td>
     <td><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/microsoft/TypeScript-Website/f407e1ae19e5e990d9901ac8064a32a8cc60edf0/packages/typescriptlang-org/static/branding/ts-logo-512.svg" alt="typescript" width="40" height="40"/></a></td>
     <td><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a></td>
-    <td><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://bashlogo.com/img/symbol/svg/full_colored_dark.svg" alt="bash" width="40" height="40"/></a></td>
+    <td><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://bashlogo.com/img/symbol/svg/full_colored_dark.svg" alt="bash" width="40" height="40"/></a>
+    </td>
+    <td><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="tailwind" width="40" 
   </tr>
 </table>
 
@@ -107,6 +110,16 @@
     <td><a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a></td>
     <td><a href="https://rust-lang.org/" target="_blank" rel="noreferrer"><img src="https://share.zytronium.dev/images/icons8-rust-programming-language.svg" alt="rust" width="40" height="40"/></a></td>
     <td><a href="https://www.lua.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/lua/lua-icon.svg" alt="lua" width="40" height="40"/></a></td>
+  </tr>
+</table>
+
+**Favorite Tech Stack:**
+<table>
+  <tr>
+    <td><a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/nextjs-icon.png" alt="Next.js" width="40" height="40"/></a></td>
+    <td><a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="40" height="40"/></a></td>
+    <td><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/microsoft/TypeScript-Website/f407e1ae19e5e990d9901ac8064a32a8cc60edf0/packages/typescriptlang-org/static/branding/ts-logo-512.svg" alt="TypeScript" width="40" height="40"/></a></td>
+    <td><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="TailwindCSS" width="40" height="40"/></a></td>
   </tr>
 </table>
 
