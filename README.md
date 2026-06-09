@@ -152,6 +152,9 @@
 </ul>
 
 <p>Visit my personal <a href="https://zytronium.dev/"><strong>developer website</strong></a>! I put a lot of time into making it look great.</p>
+</ul>
+
+<p>Need a quick job done right? I'm available as a freelancer! Check out <a href="https://webworks.zytronium.dev/"><strong>Zytronium WebWorks</strong></a> for more information.</p>
 <hr>
 
 Like what you see? Consider supporting me!
