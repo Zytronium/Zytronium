@@ -1,7 +1,7 @@
 <img width="160%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello,+World!&height=100&section=header"/>
 
 <h1 align="center">I'm Zytronium</h1>
-<h3 align="center">Full-stack developer focused on privacy-first products, web-based games, and aerospace software</h3>
+<h3 align="center">Full-stack developer focused on privacy-first products, web-based products, and aerospace software</h3>
 
 <p align="center">
   <a href="https://zytronium.dev"><img src="https://custom-icon-badges.demolab.com/badge/zytronium.dev-4A90D9?style=flat&logo=globe&logoColor=white" alt="Website"/></a>
@@ -22,7 +22,7 @@
   </tr>
   <tr>
     <td><img src="https://cdn.prod.website-files.com/6571f4826e9363343bcd2acd/6595a5223c011701af533b5f_Atlas_favicon.png" alt="Atlas School" height="25" width="25" /></td>
-    <td>Recently graduated <strong><a href="https://www.atlasschool.com/">Atlas School</a></strong> in <strong>December, 2025</strong> — actively job searching</td>
+    <td>Recently graduated <strong><a href="https://www.atlasschool.com/">Atlas School</a></strong> in <strong>December, 2025</strong></td>
   </tr>
 </table>
 
@@ -135,21 +135,24 @@
 <h4>Timeline:</h4>
 <ul>
   <li>First exposure to programming: Roblox Studio | 2017</li>
-  <li>Attended Mobile App Development class | 2021-2022</li>
+  <li>Attended Mobile App Development class at Tulsa Tech | 2021-2022</li>
   <li>Developed mobile apps and desktop applications as a hobby | 2022-2024</li>
   <li>Graduated high school | 2023</li>
   <li>Attended 20-month Full-Stack Web Development course at Atlas School | 2024-2025</li>
   <li>Developed websites and miscellaneous programs/scripts as a hobby | 2024-Present</li>
-  <li>Actively job searching | Dec 2025-Present</li>
+  <li>Applied to web developer jobs daily | Dec 2025-August 2026</li>
+  <li>Attending Enterprise Networking Technologies class at Tulsa Tech | Aug 2026-Present (expected graduation Dec 2026)</li>
 </ul>
 
-<h4>What I'm Looking For:</h4>
+<h4>Software Development Opportunities I'm Open To:</h4>
 <ul>
   <li>Roles that combine aerospace and software: flight simulators, spacecraft systems, aviation tooling</li>
   <li>Game development, web development, or mobile app development</li>
-  <li>Building products that matter: privacy tools, open-source platforms, or something that contributes to a historical ocassion (i.e. software onboard a rocket taking the first humans to Mars)</li>
-  <li>A team with strong software engineering culture and code that's well documented</li>
+  <li>Building products that matter: privacy tools, open-source platforms, or something that contributes to a historical occasion (i.e. software onboard a rocket taking the first humans to Mars)</li>
 </ul>
+
+<h4>What I'm Looking For Now</h4>
+Since AI took over the job market I was trying to get into previously, I have been shifting career paths. While I'm still open to web development jobs and freelance work, I'm also expanding into IT network technician roles, maintaining server hardware and networking infrastructure (Ethernet, WiFi routers/modems, data centers, etc.) rather than just server software. Given the current market for AI-driven infrastructure, I see strong potential in supporting the data centers that power it. (And yes, I see the irony here.)
 
 <p>Visit my personal <a href="https://zytronium.dev/"><strong>developer website</strong></a>! I put a lot of time into making it look great.</p>
 </ul>
