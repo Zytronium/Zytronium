@@ -13,8 +13,8 @@
 
 <table>
   <tr>
-    <td><img src="https://luminous-chat.vercel.app/favicon.ico" alt="Luminous" height="25" width="25" /></td>
-    <td>Currently collaborating on <strong><a href="https://luminous-chat.vercel.app/">Luminous</a></strong> — a chat app for Atlas School alumni with a cross-platform Discord messaging bridge</td>
+    <td><img src="https://pc.zytronium.dev/icon.png" alt="ZytrOS" height="25" width="25" /></td>
+    <td>Currently working on <strong><a href="https://pc.zytronium.dev/">ZytrOS</a></strong> — a web-based PC desktop with experimental web apps</td>
   </tr>
   <tr>
     <td><img src="https://prev.rust-lang.org/logos/rust-logo-256x256.png" alt="Rust" height="25" width="25" /></td>
@@ -27,12 +27,21 @@
 </table>
 
 <hr>
-<h3>Top Current & Recent Projects</h3>
+<h3>Personal Favorite Projects</h3>
 
 <table>
+  
+  <tr>
+    <td><img src="https://pc.zytronium.dev/icon.png" alt="ZytrOS" height="25" width="25"/></td>
+    <td><strong><a href="https://pc.zytronium.dev/">ZytrOS</a></strong> — a web-based PC desktop with experimental web apps</td>
+  </tr>
   <tr>
     <td><img src="https://stellicast.com/favicon.ico" alt="Stellicast" height="25" width="25"/></td>
     <td><strong><a href="https://stellicast.com/">Stellicast</a></strong> — Privacy-focused YouTube alternative with fewer ads, no data selling, and strict human moderation</td>
+  </tr>
+  <tr>
+    <td><img src="https://luminous-chat.vercel.app/favicon.ico" alt="Luminous" height="25" width="25"/></td>
+    <td><strong><a href="https://luminous-chat.vercel.app/">Luminous</a></strong> — a chat app for Atlas School alumni with a cross-platform Discord messaging bridge</td>
   </tr>
   <tr>
     <td><img src="https://raw.githubusercontent.com/Aeroduel/server/b40c4468d38a05f58f3935c6df0b364b76931f3e/public/logo.svg" alt="Aeroduel" height="25" width="25"/></td>
